@@ -74,11 +74,14 @@ if __name__ == '__main__':
             original.apilar(libro)
 
     
-    """ Impresion de los libros originales
-        print(original.desapilar().getAutor())
+
+    """
+    # Impresion de los libros originales 
+    while not originalCopia.es_vacia():
+        print(originalCopia.desapilar().getAutor())
     """
 
-    #Ordenamiento#
+    #Ordenamiento basado en ordenamiento de una pila#
     while not original.es_vacia():
         ogTemp = original.desapilar()
         while not ordenada.es_vacia():
@@ -86,11 +89,25 @@ if __name__ == '__main__':
             if ordTemp.getAutor() < ogTemp.getAutor():
                 original.apilar(ordTemp)
             else:
-                ordenada.apilar(ordTemp)
-                break
+                if ordTemp.getAutor() == ogTemp.getAutor():
+                    if ordTemp.getTitulo() < ogTemp.getTitulo():
+                        original.apilar(ordTemp)
+                    else:
+                        ordenada.apilar(ordTemp)
+                        break
+                
+                else:
+                    ordenada.apilar(ordTemp)
+                    break
         ordenada.apilar(ogTemp)
 
     
-    while not ordenada.es_vacia():
-        print(ordenada.desapilar().getAutor())
-    
+   
+        
+    with open('ordenadito.csv','w') as csvfile:
+        writer = csv.writer(csvfile)
+        while not ordenada.es_vacia():
+            x = ordenada.desapilar()
+            print(x.getTitulo()+" del escritor "+ x.getAutor())
+            writer.writerow([x.getTitulo(),x.getAutor()])
+    csvfile.close()
