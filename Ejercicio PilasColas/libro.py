@@ -63,20 +63,34 @@ class Libro:
         return self.titulo
 
 if __name__ == '__main__':    
-    original = Cola()
+    original = Pila()
+    ordenada = Pila()
+    ordTemp = None
+    ogTemp = None
     with open('Libros.csv','r') as f:
         reader = csv.reader(f)
         for row in reader:
-            libro = Libro(row[1],row[0])
-            original.encolar(libro)
-    # while not original.es_vacia():
-    #   a = original.desencolar()
-    #   print(a.getAutor()+" "+a.getTitulo())
+            libro = Libro(row[0],row[1])
+            original.apilar(libro)
 
-
-        
-        
-            
-        
     
+    """ Impresion de los libros originales
+        print(original.desapilar().getAutor())
+    """
+
+    #Ordenamiento#
+    while not original.es_vacia():
+        ogTemp = original.desapilar()
+        while not ordenada.es_vacia():
+            ordTemp = ordenada.desapilar()
+            if ordTemp.getAutor() < ogTemp.getAutor():
+                original.apilar(ordTemp)
+            else:
+                ordenada.apilar(ordTemp)
+                break
+        ordenada.apilar(ogTemp)
+
+    
+    while not ordenada.es_vacia():
+        print(ordenada.desapilar().getAutor())
     
