@@ -9,6 +9,9 @@ De varias cajas de libros cargadas de un archivo de texto, usando pilas y/o cola
 - Editorial
 la salida debe escribirse a un archivo de texto.
 
+Solución:
+Hemos escogido los criterios de Titulo y Autor para realizar el ordenamiento, además hemos escogido Pilas para realizarlo
+
 Integrantes:
 - Jhonathan Daniel Rojas Zora - 20151020041
 - David Santiago Garces Benitez - 20151020032
