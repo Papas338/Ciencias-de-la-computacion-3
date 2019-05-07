@@ -1,0 +1,31 @@
+Análisis Léxico
+
+prog. fuente --> objeto o ejecutable
+
+
+ programa ---> Analizador Léxico ----> Tirilla de tokens
+ fuente
+
+Análisis léxico
+identifica los elementos, tipo y ubicacion en el programa fuente
+Ej: operador, variable, símbolo, valor, etc.
+Se puede identificar por caracteres e identificar patrones para
+producir los lexemas.
+
+Se producen unos recorridos en unos grafos para producir la 
+tirilla de tokens.
+Obvia los espacios, tabulados, saltos de línea para enfocarse
+en los elementos del código.
+
+Otra forma es por expresiones regulares para generar la tirilla
+de tokens, identificando elementos validos e inválidos.
+Solo hay tokens no validos como posibles errores aquí
+
+
+
+análisis:
+- lexico
+- sintáctico
+- semántico
+
+síntesis
