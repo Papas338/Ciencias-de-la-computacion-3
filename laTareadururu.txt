@@ -29,3 +29,19 @@ análisis:
 - semántico
 
 síntesis
+
+
+
+La tarea:
+1. analizador lexico: operaciones en posfijo + - / *
+- Expresiones regulares
+- variables: letras minúsculas
+- valores enteros positivos de mas de 1 digito
+
+
+5 3 + 2 - a =
+
+2. instalar ply (pip install ply)
+Usar como base el código del profesor
+Usar un archivo de texto con operaciones en posfijo
+Sacar la tirilla de tokens
