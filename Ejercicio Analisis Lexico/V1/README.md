@@ -11,7 +11,8 @@ Se usan las expresiones regulares:
 - ^\d+$: Para identificar los valores enteros positivos.
 - ^[+-/*]$: Para identificar los operadores aritméticos.
 - En otro caso se considera token no válido.
-Ej: "32 f / a base + %"
+
+#### Ej: "32 f / a base + %"
 - 32: Valor
 - f: Variable
 - /: Operador
