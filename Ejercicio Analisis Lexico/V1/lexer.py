@@ -10,6 +10,32 @@ los posibles tokens
 def tokenize(entrada):
     return list(entrada.split(" "))
 
+"""
+Convierte una expresion posfija en un arbol de expresiones
+"""
+def convertir(lista, pila):  
+    if lista != []:
+        if lista[0] in "+-*/":
+            nodo_der = pila.desapilar()
+            nodo_izq = pila.desapilar()
+            pila.apilar(Nodo(lista[0],nodo_izq,nodo_der))
+        else:
+            pila.apilar(Nodo(lista[0]))
+        return convertir(lista[1:],pila)
+
+"""
+Reconvierte en lista 
+"""
+def posorden(arbol):
+    lista = []
+    print("Entro")
+    if arbol != None:
+        posorden(arbol.izq)
+        posorden(arbol.der)
+        return lista.insert(arbol.valor)
+    if arbol == None:
+        print("puta bida")
+
 
 """
 Comprueba si la entrada es un valor numerico entero positivo
