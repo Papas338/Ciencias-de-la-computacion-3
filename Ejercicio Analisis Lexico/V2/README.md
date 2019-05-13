@@ -1,4 +1,4 @@
-## Ejercicio: Análisis léxico V1
+## Ejercicio: Análisis léxico V2
 
 ### Enunciado: 
 A partir de una entrada en un archivo de texto que representa unas operaciones en notación posfija, generar una tirilla de tokens que identifica cuales son las variables, operadores y valores.
