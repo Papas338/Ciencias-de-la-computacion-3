@@ -22,8 +22,28 @@ def t_error(t):
 
 lex.lex() # Build the lexer
 
-lex.input("x = 3 - 4 + 5 * 6")
+#lectura de archivo
+entradaIn = []
+salidasOut = []
+archIn = open('entrada.in','r')
+for row in archIn:
+    y = row.strip('\n')
+    entradaIn.append(y)
+archIn.close()
+print(entradaIn)
+
+#analisis lexico
+lex.input(str(entradaIn))
 while True:
     tok = lex.token()
     if not tok: break
-    print str(tok.value) + " - " + str(tok.type)
+    salidasOut.append(str(tok.value) + " - " + str(tok.type))
+    print (str(tok.value) + " - " + str(tok.type))
+
+
+archOut = open('salidas.out','w')
+for result in salidasOut:
+    archOut.write(str(result)+"\n")    
+archOut.close()
+
+
