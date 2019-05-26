@@ -1,8 +1,9 @@
 4 - NUMBER
-c - NAME
+f - NAME
 / - DIVIDE
-3 - NUMBER
+32 - NUMBER
 arbol - NAME
 b - NAME
 - - MINUS
 * - TIMES
++ - PLUS
