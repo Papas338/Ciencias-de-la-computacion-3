@@ -1,7 +1,15 @@
 import ply.lex as lex
 
-tokens = ['NUMBER','CADENA','LETRA','DIGITO',"MIENTRAS","HACER","NO","Y","O",
-
+tokens = [
+'NUMBER',
+'CADENA',
+'LETRA',
+'DIGITO',
+"MIENTRAS",
+"HACER",
+"NO",
+"Y",
+"O",
 
 
 "INICIOPROGRAMA",
@@ -23,10 +31,13 @@ tokens = ['NUMBER','CADENA','LETRA','DIGITO',"MIENTRAS","HACER","NO","Y","O",
 "SI",
 "ENTONCES",
 "SINO",
-
+"SIESCERO",
+"PRECEDE",
+"SUCEDE",
 
 "INICIO",
 "FIN",
+"COMENTLLAVE",
 
 "FLIBRE",
 "FBLOQUADO",
@@ -47,13 +58,6 @@ tokens = ['NUMBER','CADENA','LETRA','DIGITO',"MIENTRAS","HACER","NO","Y","O",
 "NOROESTE",
 "NORESTE"]
 
-
-
-
-
-
-
-
 instrucciones = ["apagate","gira-izquierda","avanza","coge-zumbador","deja-zumbador",
 "sal-de-instruccion","y","o"]
 
@@ -63,8 +67,6 @@ funcionesBooleanas = ["frente-libre","frente-bloqueado","izquierda-libre","izqui
 "ningun-zumbador-en-la-mochila","orientado-al-norte","orientado-al-sur",
 "orientado-al-este","orientado-al-oeste","no-orientado-al-norte","no-orientado-al-sur",
 "no-orientado-al-este","no-orientado-al-oeste"]
-
-
 
 
 
@@ -97,19 +99,24 @@ t_NOROESTE = r'no-orientado-al-oeste'
 t_NORESTE = r'no-orientado-al-este'
 
 
-
+#Expresiones de estructura del programa#
 t_INICIOPROGRAMA = r'iniciar-programa'
 t_DECLARACION = r'define-nueva-instruccion'
 t_COMODECLARACION = r'como'
 t_INICIAEJECUCION = r'inicia-ejecucion'
 t_FINEJECUCION = r'termina-ejecucion'
 t_FINPROGRAMA = r'finalizar-programa'
+t_INICIO = r'inicio'
+t_FIN = r'fin'
 
 
-
-t_CADENA = r'\".*'
-t_LETRA = r'^[A-Za-z]$'
+#Estructuras de cadena,letra o digito
+t_CADENA = r'".*"'
+t_LETRA = r'\w$'
 t_DIGITO = r'[0-9]'
+
+
+#Estructuras de control#
 t_MIENTRAS = r'mientras'
 t_HACER = r'hacer'
 t_REPETIR = r'repetir'
@@ -117,13 +124,20 @@ t_VECES = r'veces'
 t_SI = r'si'
 t_ENTONCES = r'entonces'
 t_SINO = r'sino'
-
-t_INICIO = r'inicio'
-t_FIN = r'fin'
+t_SIESCERO = r'si-es-cero'
 
 t_NO = r'no'
 t_Y = r'y'
 t_O = r'o'
+
+#Estructura precede o sucede#
+t_PRECEDE = r'precede'
+t_SUCEDE = r'sucede'
+
+#Comentario#
+t_COMENTLLAVE = r'^\{.*\}$'
+
+
 
 
 def t_NUMBER(t):
@@ -160,13 +174,15 @@ for x in entradaAux:
     p = x.rsplit()
     entradaIn = entradaIn + p
 
+
+
 #analisis lexico
 lex.input(str(entradaIn))
 while True:
     tok = lex.token()
     if not tok: break
     salidasOut.append(str(tok.value) + " - " + str(tok.type))
-    print (str(tok.value) + " - " + str(tok.type))
+    #print (str(tok.value) + " - " + str(tok.type))
 
 
 archOut = open('salidas.out','w')

@@ -14,12 +14,24 @@ iniciar-programa
 		fin;
 		gira-izquierda;
 		gira-izquierda;
+		mientras orientado-al-norte o no orientado-al-este hacer inicio
+			avanza;
+			si-es-cero y derecha-libre hacer inicio
+				sal-de-instruccion;
+			fin;
+		fin;
 		mientras frente-libre y no junto-a-zumbador hacer inicio
 			avanza;
 		fin;
 		si frente-bloqueado entonces inicio
 			deja-zumbador;
-		fin;
+		fin;		
         	apagate;
+		precede; 
+		sucede;
+		si-es-cero;
+		repetir 99 veces;
+		repetir 1 veces;
+		"Hola"
 	termina-ejecucion
 finalizar-programa
