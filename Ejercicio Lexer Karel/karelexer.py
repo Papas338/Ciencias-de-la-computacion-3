@@ -10,7 +10,7 @@ tokens = [
 "NO",
 "Y",
 "O",
-
+"PUNTOCOMA",
 
 "INICIOPROGRAMA",
 "DECLARACION",
@@ -76,7 +76,8 @@ t_GIRAIZQ = r'gira-izquierda'
 t_AVANZA = r'avanza'
 t_COGZUM = r'coge-zumbador'
 t_DEJZUM = r'deja-zumbador'
-t_SALINS = "sal-de-instruccion"
+t_SALINS = r'sal-de-instruccion'
+t_PUNTOCOMA = r';'
 
 #Funcion Booleana#
 t_FLIBRE = r'frente-libre'
