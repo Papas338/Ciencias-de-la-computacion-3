@@ -176,7 +176,7 @@ for x in archivos:
 
 archivoSelec = int(input("Escriba el numero para seleccionar la entrada:"))
 
-rutaEntrada = ruta + "\\" + archivos[archivoSelec]
+rutaEntrada = os.path.join(ruta,archivos[archivoSelec])
 archIn = open(rutaEntrada,'r')
 """
 for row in archIn:
@@ -197,7 +197,7 @@ while True:
     #print (str(tok.value) + " - " + str(tok.type))
 
 
-rutaSalida = ruta+"\salidas.out"
+rutaSalida = os.path.join(ruta,"salidas.out")
 archOut = open(rutaSalida,'w')
 for result in salidasOut:
     archOut.write(str(result)+"\n")    
