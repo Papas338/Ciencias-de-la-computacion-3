@@ -1,4 +1,5 @@
 import ply.lex as lex
+import os
 
 tokens = [
 'NUMBER',
@@ -10,6 +11,8 @@ tokens = [
 "NO",
 "Y",
 "O",
+"PUNTOCOMA",
+"NEWLINE",
 
 
 "INICIOPROGRAMA",
@@ -69,7 +72,7 @@ funcionesBooleanas = ["frente-libre","frente-bloqueado","izquierda-libre","izqui
 "no-orientado-al-este","no-orientado-al-oeste"]
 
 
-
+t_ignore = '\t'
 #Expresiones#
 t_APAGAR = r'apagate'
 t_GIRAIZQ = r'gira-izquierda'
@@ -77,6 +80,8 @@ t_AVANZA = r'avanza'
 t_COGZUM = r'coge-zumbador'
 t_DEJZUM = r'deja-zumbador'
 t_SALINS = "sal-de-instruccion"
+t_PUNTOCOMA = r';'
+t_NEWLINE = r'\n';
 
 #Funcion Booleana#
 t_FLIBRE = r'frente-libre'
@@ -138,8 +143,6 @@ t_SUCEDE = r'sucede'
 t_COMENTLLAVE = r'^\{.*\}$'
 
 
-
-
 def t_NUMBER(t):
     r'\d+'
     t.value = int(t.value)
@@ -151,10 +154,6 @@ def t_error(t):
     t.lexer.skip(1)
 
 
-
-
-
-
 lex.lex() # Build the lexer
 
 #lectura de archivo
@@ -163,21 +162,34 @@ entradaAux = []
 
 entradaIn = []
 salidasOut = []
-archIn = open('entrada.in','r')
+
+
+ruta = os.path.dirname(os.path.realpath(__file__))
+print("Ruta Actual: "+ruta)
+archivos = os.listdir(ruta)
+
+k = 0
+for x in archivos:
+    print(str(k) + " : " + x)
+    k = k + 1
+
+
+archivoSelec = int(input("Escriba el numero para seleccionar la entrada:"))
+
+
+archIn = open(archivos[archivoSelec],'r')
+"""
 for row in archIn:
     y = row.strip('\n')
     entradaAux.append(y)
+"""
+entradaAux = archIn.readlines()
 archIn.close()
-print(entradaAux)
-
-for x in entradaAux:
-    p = x.rsplit()
-    entradaIn = entradaIn + p
-
+#print(entradaAux)
 
 
 #analisis lexico
-lex.input(str(entradaIn))
+lex.input(str(entradaAux))
 while True:
     tok = lex.token()
     if not tok: break
@@ -185,7 +197,8 @@ while True:
     #print (str(tok.value) + " - " + str(tok.type))
 
 
-archOut = open('salidas.out','w')
+rutaSalida = ruta+"\salidas.out"
+archOut = open(rutaSalida,'w')
 for result in salidasOut:
     archOut.write(str(result)+"\n")    
 archOut.close()
