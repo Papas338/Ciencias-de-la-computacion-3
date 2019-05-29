@@ -176,8 +176,8 @@ for x in archivos:
 
 archivoSelec = int(input("Escriba el numero para seleccionar la entrada:"))
 
-
-archIn = open(archivos[archivoSelec],'r')
+rutaEntrada = ruta + "\\" + archivos[archivoSelec]
+archIn = open(rutaEntrada,'r')
 """
 for row in archIn:
     y = row.strip('\n')
