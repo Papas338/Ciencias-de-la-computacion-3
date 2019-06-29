@@ -1,22 +1,24 @@
-// Reporte para {{entity.name|capitalize}}
-<div ng-controller="{{entity.name|capitalize}}Ctrl">
+// Reporte para Estudianteprueba
+<div ng-controller="EstudiantepruebaCtrl">
 <div class="jumbotron text-center">
-<h2>{{'{{'}} title {{'}}'}}</h2>
+<h2>{{ title }}</h2>
 <hr>
-<p>{{'{{'}} message {{'}}'}}</p>
+<p>{{ message }}</p>
 <table id="list" class="table table-striped table-bordered">
   <thead>
     <tr>
-      {% for property in entity.properties %}
-        <th>{{property.name}}</th>
-      {% endfor %}
+        <th>Jhonathan_Rojas</th>
+        <th>c20151020041</th>
+        <th>patatapetetepititiputoelquelolea</th>
+        <th>nota</th>
     </tr>
   </thead>
   <tbody>
     <tr ng-repeat="d in data">
-      {% for property in entity.properties %}
-        <td>{{'{{'}}d.{{property.name}}{{'}}'}}</td>
-      {% endfor %}
+        <td>{{d.Jhonathan_Rojas}}</td>
+        <td>{{d.c20151020041}}</td>
+        <td>{{d.patatapetetepititiputoelquelolea}}</td>
+        <td>{{d.nota}}</td>
     </tr>
   </tbody>
 </table>

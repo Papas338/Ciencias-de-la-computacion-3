@@ -26,15 +26,6 @@ def main(debug=False):
         else:
             return False
 
-    def javatype(s):
-        """
-        Maps type names from PrimitiveType to Java.
-        """
-        return {
-                'integer': 'int',
-                'string': 'String'
-        }.get(s.name, s.name)
-
     # Create output folder
     srcgen_folder = join(this_folder, 'output')
     if not exists(srcgen_folder):
@@ -50,15 +41,13 @@ def main(debug=False):
 
     jinja_env.tests['entity'] = is_entity
 
-    jinja_env.filters['javatype'] = javatype
-
     # Load template
     template = jinja_env.get_template('reporte.template')
 
     for entity in person_model.entities:
         # For each entity generate java file
         with open(join(srcgen_folder,
-                       "%s.java" % entity.name.capitalize()), 'w') as f:
+                       "%s.html" % entity.name.capitalize()), 'w') as f:
             f.write(template.render(entity=entity))
 
 if __name__ == "__main__":

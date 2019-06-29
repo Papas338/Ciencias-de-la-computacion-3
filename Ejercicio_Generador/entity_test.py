@@ -42,22 +42,5 @@ def get_entity_mm(debug=False):
     return entity_mm
 
 
-def main(debug=False):
-
-    entity_mm = get_entity_mm(debug)
-
-    # Export to .dot file for visualization
-    dot_folder = join(this_folder, 'dotexport')
-    if not os.path.exists(dot_folder):
-        os.mkdir(dot_folder)
-    metamodel_export(entity_mm, join(dot_folder, 'entity_meta.dot'))
-
-    # Build Person model from person.ent file
-    person_model = entity_mm.model_from_file(join(this_folder, 'person.ent'))
-
-    # Export to .dot file for visualization
-    model_export(person_model, join(dot_folder, 'person.dot'))
-
-
 if __name__ == "__main__":
     main()
