@@ -36,7 +36,7 @@ def main(debug=False):
         }.get(s.name, s.name)
 
     # Create output folder
-    srcgen_folder = join(this_folder, 'srcgen')
+    srcgen_folder = join(this_folder, 'output')
     if not exists(srcgen_folder):
         mkdir(srcgen_folder)
 
@@ -53,39 +53,12 @@ def main(debug=False):
     jinja_env.filters['javatype'] = javatype
 
     # Load template
-    template = jinja_env.get_template('clase.template')
+    template = jinja_env.get_template('reporte.template')
 
     for entity in person_model.entities:
         # For each entity generate java file
         with open(join(srcgen_folder,
                        "%s.java" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
-
-    # Load agregar template
-    template = jinja_env.get_template('list.template')
-
-    for entity in person_model.entities:
-        # For each entity generate html file
-        with open(join(srcgen_folder,
-                       "agregar%s.html" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
-
-    # Load template
-    template = jinja_env.get_template('editar.template')
-
-    for entity in person_model.entities:
-        # For each entity generate html file
-        with open(join(srcgen_folder,
-                       "editar%s.html" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
-
-    # Load template
-    template = jinja_env.get_template('agregarCtrl.template')
-
-    for entity in person_model.entities:
-        # For each entity generate js file
-        with open(join(srcgen_folder,
-                       "agregar%s.js" % entity.name.capitalize()), 'w') as f:
             f.write(template.render(entity=entity))
 
 if __name__ == "__main__":
