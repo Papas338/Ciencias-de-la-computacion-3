@@ -1,25 +1,31 @@
 // Reporte para {{entity.name|capitalize}}
 <div ng-controller="{{entity.name|capitalize}}Ctrl">
 <div class="jumbotron text-center">
-<h2>{{'{{'}} title {{'}}'}}</h2>
+<h2>{{'Certificado de participacion GLUD'}}</h2>
 <hr>
-<p>{{'{{'}} message {{'}}'}}</p>
-<table id="list" class="table table-striped table-bordered">
-  <thead>
-    <tr>
-      {% for property in entity.properties %}
-        <th>{{property.name}}</th>
-      {% endfor %}
-    </tr>
-  </thead>
-  <tbody>
-    <tr ng-repeat="d in data">
-      {% for property in entity.properties %}
-        <td>{{'{{'}}d.{{property.name}}{{'}}'}}</td>
-      {% endfor %}
-    </tr>
-  </tbody>
-</table>
+<p>
+
+{{'El Grupo Linux de la Universidad Distrital (GLUD) certifica que el estudiante '}}
+
+{% set propie = entity.properties %}
+{{propie[0].name}}
+
+{{' con codigo '}}
+
+{{propie[1].name}}
+
+{{' fue miembro del grupo GLUD y participo y completo las siguientes actividades: '}}
+
+{{propie[2].name}}
+
+{{', al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de '}} 
+
+{{propie[3].name}}
+
+{{''}}
+
+</p>
+
 </div>
 <script>
 $(document).ready(function() {
