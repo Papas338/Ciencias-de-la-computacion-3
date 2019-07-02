@@ -1,0 +1,2000 @@
+Alejandro Balaguera Cardenas,20181007673,Alumno Curso GNU,41
+Hernando Escudero Buscalia,20132025628,Asesoría Linux,47
+Veronica Vargas De La Rua,20141020062,Secretario,42
+Jairo Rodriguez Vidal,20141020748,Secretario,43
+Ximena Schmidt Nieto,20172007153,Asesoría Linux,40
+Ivanna Isla Parra,20161025308,Hackathón,44
+Hernando Garrido Nieto,20111015852,Ayudante,50
+Maria Puig Perez,20152025280,Secretario,43
+Alexa MontFerrer Cardenas,20182007240,Secretario,46
+Monica Garces Nieto,20122015190,Asesoría Linux,44
+Alfredo Thompson Balaguera,20122025053,Ayudante,48
+Alfredo Nieto Benitez,20132007915,Ayudante,42
+Bayron Vargas Cardenas,20171025210,Monitor,41
+Fernando De Ligt Buscalia,20111020372,Asesoría Linux,46
+Valentina Fornals Pardo,20161015997,Ayudante,41
+Lucia Daza Garrido,20181007244,Ayudante,40
+Angela Almonacid Daronco,20181025890,Monitor,47
+Cristian Balaguera Vergara,20141025741,Alumno Curso GNU,47
+Ximena Benitez Sarri,20182005599,Alumno Curso GNU,49
+Lionel De La Rua Dybala,20181007654,Monitor,44
+Fernando Nieto Puig,20172005267,Alumno Curso GNU,42
+Juan De Ligt Almonacid,20182005370,Asesoría Linux,40
+Lionel Pardo Dybala,20132005223,Monitor,47
+Catalina Garcia Cardenas,20132005368,Ayudante,40
+Luis Almonacid Hernandez,20131005378,Ayudante,45
+German Rodriguez Daronco,20161007211,Ayudante,46
+Jairo Pardo Fornals,20182020586,Ayudante,44
+Lucia Pinto De La Rua,20172007911,Asesoría Linux,46
+Jorge Dybala Vidal,20172005229,Hackathón,46
+Alfredo Torres Almonacid,20151007340,Asesoría Linux,45
+Mauricio Pinto Espinel,20172007222,Asesoría Linux,49
+Alfonso Isla Molina,20111020335,Asesoría Linux,46
+Fernando Scarpetta Baquero,20172005755,Asesoría Linux,40
+Natalie Molina Nieto,20162005227,Secretario,45
+Ximena Benitez Vergara,20111005657,Asesoría Linux,50
+Natalie Escudero Daza,20141020533,Hackathón,41
+Angela MontFerrer Cardenas,20121015913,Alumno Curso GNU,45
+Alfredo Pertuz Vergara,20171025119,Asesoría Linux,46
+Lionel Daronco Cardenas,20141025611,Asesoría Linux,41
+Lionel Puig Pertuz,20182005467,Secretario,41
+Catalina Rodriguez Vergara,20111005320,Ayudante,45
+Daniel Scarpetta Baquero,20131007843,Hackathón,42
+Alfredo Schmidt Bolaños,20172025087,Asesoría Linux,40
+Jairo De La Rua Rodriguez,20132005217,Alumno Curso GNU,40
+Ana Isla Isla,20171007325,Hackathón,50
+Monica MontFerrer Zúñiga,20181025445,Hackathón,42
+Maria Isla Cardenas,20171007774,Hackathón,47
+Catalina Malaver Cardozo,20131005357,Asesoría Linux,43
+Mauricio Rodriguez Cadena,20171025896,Ayudante,50
+Paula Fornals Dybala,20151005355,Secretario,47
+German Almaguer Pardo,20172020465,Ayudante,45
+Angela Pinto Isla,20151015834,Secretario,42
+Mauricio Ortiz Benitez,20122007341,Ayudante,48
+Veronica Bolaños Daronco,20182015315,Alumno Curso GNU,46
+Bayron Buscalia Zúñiga,20182007597,Hackathón,46
+Bayron MontFerrer Rubio,20161005764,Secretario,42
+Jairo Pitana Daza,20172007422,Ayudante,42
+Bryan Cardozo Almaguer,20141005053,Asesoría Linux,44
+Ximena Dybala Cadena,20122005915,Alumno Curso GNU,50
+Jairo Cardenas Malaver,20151007134,Monitor,47
+Ana Schmidt Scarpetta,20142025901,Monitor,44
+Jhonathan Malaver Torres,20151020773,Ayudante,42
+Paula Balaguera Vargas,20161025905,Hackathón,40
+Daniel Dybala Zúñiga,20122015171,Ayudante,49
+Ivanna Pardo Garces,20131015197,Asesoría Linux,42
+Sebastian Caminero Polanco,20181020161,Hackathón,40
+Priscila Caminero Parra,20162005484,Secretario,42
+Mauricio Almaguer Dybala,20152020749,Ayudante,45
+Alfonso De La Rua Rojas,20112007231,Alumno Curso GNU,40
+Alejandro Scarpetta Polanco,20162005687,Secretario,46
+Andrea Almaguer Escudero,20181007901,Asesoría Linux,43
+Angela Cardenas De La Rua,20122025314,Ayudante,50
+Sebastian Nieto Buscalia,20151015479,Alumno Curso GNU,50
+Lionel Torres Dybala,20112007653,Ayudante,48
+Luisa De Ligt Cardozo,20142007514,Secretario,45
+Gustavo Buscalia Molina,20111025933,Ayudante,48
+Maria Cardozo Espinel,20112025875,Hackathón,40
+Juan Garces Espinel,20121007257,Secretario,49
+Lucia De Ligt Escudero,20142020465,Asesoría Linux,50
+Santiago Rodriguez Cadena,20131007180,Alumno Curso GNU,47
+Luis Bolaños Rojas,20161005801,Secretario,46
+Ivanna Sarri Ortiz,20181007361,Secretario,41
+Priscila Molina Almonacid,20181007746,Ayudante,48
+Veronica Sarri Pinto,20161020124,Monitor,49
+Lucia Espinel Molina,20181025246,Secretario,46
+Priscila Caminero Escudero,20141015756,Hackathón,48
+Ana Almonacid Rodriguez,20172007795,Hackathón,42
+Sebastian Vargas Puig,20161005719,Monitor,45
+Priscila Vidal Zúñiga,20112025764,Monitor,45
+Maria Ortiz Daronco,20172020751,Alumno Curso GNU,48
+Ana Daza Puig,20132005835,Secretario,40
+Alejandro Vargas Isla,20141005186,Asesoría Linux,46
+Catalina Baquero Benitez,20122020125,Ayudante,45
+Ivanna Schmidt Isla,20131020303,Ayudante,47
+Veronica Malaver Rubio,20142020096,Alumno Curso GNU,50
+Pedro Escudero De Ligt,20132005822,Monitor,43
+Susana Daza Daza,20151007052,Ayudante,42
+Maria Sarri Garrido,20161015865,Monitor,50
+Jairo Almonacid Parra,20121015494,Monitor,50
+Alexa Vidal Garcia,20182007542,Alumno Curso GNU,50
+Veronica Molina Almaguer,20121025005,Hackathón,50
+Catalina Isla Pertuz,20142015138,Hackathón,48
+Sofia Baquero Torres,20111020675,Hackathón,42
+Alfonso Scarpetta Buscalia,20131025806,Asesoría Linux,46
+Ivanna Cadena Almaguer,20152020451,Secretario,41
+Ana Garcia Escudero,20122025957,Alumno Curso GNU,43
+Alfonso Vergara Ortiz,20111015900,Alumno Curso GNU,42
+Sofia Molina MontFerrer,20171020416,Ayudante,47
+Jhonathan Rojas Vidal,20122005382,Alumno Curso GNU,46
+Angela Baquero Garrido,20172020447,Asesoría Linux,44
+Angela Daza Rodriguez,20151005996,Secretario,40
+Catalina De Ligt Buscalia,20132015117,Asesoría Linux,49
+Valentina De La Rua Parra,20162007085,Hackathón,50
+Lionel Nieto Vidal,20122015616,Asesoría Linux,49
+Paula Bolaños De Ligt,20141005725,Monitor,41
+Paula Scarpetta Pinto,20131020380,Secretario,47
+Valentina De Ligt Dybala,20111015050,Monitor,46
+Hernando Rojas Pardo,20112020419,Secretario,45
+Susana Pinto Rubio,20121005313,Hackathón,42
+Monica Pinto Baquero,20151007032,Secretario,48
+Bayron Puig Thompson,20111015681,Ayudante,41
+Fernando Garrido Cadena,20181007756,Ayudante,41
+Esmeralda Pertuz Almonacid,20172007077,Ayudante,45
+Lionel Parra Molina,20182005653,Hackathón,44
+Angela Rubio Hernandez,20181025195,Ayudante,42
+Jairo Sarri Molina,20141015775,Ayudante,41
+Andrea Almaguer Cardozo,20121007032,Secretario,46
+Veronica Perez Torres,20132007159,Hackathón,44
+Alfonso Molina Rojas,20151025335,Asesoría Linux,48
+Lucia De La Rua Zúñiga,20181007282,Secretario,43
+Bryan Pardo Garcia,20162025041,Hackathón,46
+Lucia Ortiz Cadena,20142007908,Monitor,41
+Fernando Buscalia Vargas,20121020082,Secretario,48
+Angela Ortiz Hernandez,20122020896,Ayudante,44
+Alejandro Pertuz Hernandez,20112020845,Hackathón,45
+Mauricio Rojas Rubio,20162025708,Hackathón,44
+Mauricio Cardenas Schmidt,20171007429,Secretario,50
+Esmeralda Schmidt Espinel,20121005504,Monitor,41
+Angela Garcia Parra,20141015211,Monitor,42
+German Ortiz Almonacid,20132005038,Monitor,47
+Hernando Cardozo De Ligt,20172020524,Asesoría Linux,43
+Gustavo Malaver Scarpetta,20152015338,Asesoría Linux,49
+Alfonso Parra Schmidt,20112007101,Alumno Curso GNU,48
+Cristian Thompson Pitana,20122005905,Monitor,47
+Alejandro Sarri Vidal,20111015890,Hackathón,43
+Alfonso Polanco Balaguera,20161015383,Monitor,40
+Natalie Pertuz Molina,20172015432,Monitor,46
+Angela Cardozo Puig,20111007672,Asesoría Linux,40
+Ivanna Perez Cadena,20162005012,Ayudante,40
+Esmeralda Bolaños Molina,20182015374,Ayudante,41
+Veronica Thompson Almaguer,20132005638,Alumno Curso GNU,43
+Maria MontFerrer Puig,20142015619,Secretario,41
+Lucia Rodriguez Ortiz,20182007705,Ayudante,48
+Lionel Bolaños Cadena,20151005203,Monitor,40
+Gustavo De La Rua De Ligt,20121020579,Ayudante,43
+Catalina Vergara Vergara,20111015474,Alumno Curso GNU,48
+Catalina Ortiz Isla,20141015818,Hackathón,48
+Federico Vargas Pertuz,20151007067,Secretario,50
+Angela Caminero Puig,20152007644,Monitor,47
+Susana Cardozo De La Rua,20182025629,Hackathón,44
+Juan Caminero Almaguer,20182020366,Secretario,50
+Bayron Sarri Sarri,20141005018,Monitor,46
+Luisa Cardozo Thompson,20141007276,Ayudante,50
+Maria Cardenas Almaguer,20151015472,Alumno Curso GNU,44
+Maria Cardozo Daza,20132015638,Alumno Curso GNU,41
+Jairo Fornals Sarri,20112020645,Monitor,46
+Fernando Fornals Garces,20121007169,Secretario,41
+Jhonathan Cardenas Molina,20152025468,Monitor,40
+Ivanna Puig Molina,20181020166,Monitor,50
+Veronica Cardenas Garrido,20182007860,Asesoría Linux,41
+Pedro Daza Cardozo,20152007042,Asesoría Linux,43
+Mauricio Balaguera Ortiz,20151020418,Hackathón,46
+Mauricio Baquero Molina,20131015242,Secretario,44
+Alfonso MontFerrer Cardozo,20112005589,Monitor,40
+Veronica Pardo Garces,20162005819,Alumno Curso GNU,41
+Paula Thompson Perez,20122015284,Ayudante,42
+Alfonso Perez Rubio,20171015563,Hackathón,43
+Angela Malaver Zúñiga,20182015803,Ayudante,41
+Lucia Malaver MontFerrer,20172015034,Hackathón,45
+Alejandro Dybala Espinel,20111025963,Hackathón,41
+Alfonso Bolaños Torres,20131020222,Asesoría Linux,50
+Catalina Perez Perez,20171007909,Monitor,48
+Sofia Bolaños Isla,20141007833,Ayudante,45
+Daniel Cardenas De Ligt,20171005257,Monitor,44
+Valentina Cardozo Vargas,20181005328,Hackathón,41
+Jorge Garrido Thompson,20131025455,Ayudante,42
+Susana Perez Vergara,20122025901,Alumno Curso GNU,47
+Angela Almaguer Thompson,20141020684,Asesoría Linux,40
+German Pardo MontFerrer,20171015497,Asesoría Linux,45
+Fernando Pitana Puig,20142005973,Alumno Curso GNU,48
+Angela Ortiz Perez,20111020883,Ayudante,47
+Catalina Isla Dybala,20132015324,Ayudante,48
+Esmeralda Caminero Garces,20112005992,Alumno Curso GNU,44
+Santiago Baquero Benitez,20171005203,Ayudante,42
+Priscila Caminero Thompson,20121015218,Hackathón,43
+Jose De La Rua Parra,20132007897,Secretario,48
+Jorge Bolaños Vargas,20162007527,Secretario,46
+Juan Rojas Vidal,20132020251,Secretario,44
+Bryan Dybala Sarri,20131020973,Monitor,44
+Ana Pardo Cardozo,20132015263,Alumno Curso GNU,50
+David Balaguera Baquero,20171020355,Hackathón,45
+Jhonathan Rubio Espinel,20142025471,Hackathón,50
+Monica Garces Torres,20132015102,Monitor,50
+Paula Sarri Perez,20132015552,Alumno Curso GNU,42
+Paula Thompson Daronco,20161025472,Alumno Curso GNU,46
+Priscila Almaguer Pitana,20171015994,Ayudante,45
+Sofia Zúñiga Rojas,20162020474,Hackathón,45
+Angela Cardenas Rubio,20161005118,Alumno Curso GNU,49
+Angela Rubio Malaver,20131015364,Hackathón,50
+Lionel Hernandez Rubio,20142015199,Ayudante,44
+Federico MontFerrer Malaver,20162025430,Hackathón,43
+Paula Vargas Daza,20112020318,Hackathón,44
+Angela Cadena Torres,20112005134,Monitor,50
+German Pertuz Thompson,20132005785,Asesoría Linux,41
+David Pardo Scarpetta,20181007778,Asesoría Linux,50
+Natalie Schmidt Pertuz,20152005543,Secretario,44
+Fernando Pinto Malaver,20162007754,Secretario,47
+Hernando Vidal Rubio,20112005445,Secretario,42
+Angela Ortiz Rodriguez,20112005541,Asesoría Linux,48
+Paula Balaguera Malaver,20172020240,Ayudante,41
+Andrea Garrido MontFerrer,20122020157,Hackathón,46
+Juan Garces Bolaños,20152005542,Asesoría Linux,45
+Bayron Rubio Garcia,20142025301,Hackathón,41
+Federico Baquero Molina,20152005017,Ayudante,41
+Angela Daza Sarri,20162005507,Alumno Curso GNU,47
+Alfredo Malaver De Ligt,20172005962,Ayudante,46
+Bryan Daronco Malaver,20112007238,Secretario,49
+Fernando Scarpetta Pertuz,20162007923,Hackathón,45
+Bayron Hernandez Espinel,20182025829,Monitor,48
+Ximena Schmidt Pitana,20122025489,Hackathón,46
+Natalie Rojas Benitez,20152025980,Secretario,49
+Ximena Garces Pinto,20132015318,Monitor,44
+Ana Malaver Torres,20152020481,Ayudante,42
+Paula Vergara Rodriguez,20131015674,Alumno Curso GNU,46
+Valentina Balaguera Garces,20142020160,Hackathón,43
+Angela Vergara Ortiz,20131007701,Monitor,50
+Ximena Daza Perez,20171025502,Hackathón,40
+German Malaver Vidal,20161015137,Ayudante,41
+Juan Dybala Garcia,20151020766,Alumno Curso GNU,42
+Ximena De La Rua Parra,20182015734,Ayudante,48
+Alejandro Rojas Isla,20182015385,Monitor,40
+Ivanna Puig Bolaños,20162020654,Ayudante,44
+Jose Pinto Polanco,20172025455,Hackathón,47
+Gustavo Perez Vargas,20182025743,Hackathón,42
+Andrea Rodriguez Dybala,20162025902,Alumno Curso GNU,45
+Esmeralda MontFerrer De La Rua,20161020565,Secretario,41
+Lionel Escudero Pinto,20161020276,Secretario,43
+Mauricio Schmidt Garcia,20132015889,Alumno Curso GNU,46
+Alfredo Vidal Pertuz,20172020652,Monitor,41
+Alejandro Buscalia Sarri,20112015966,Secretario,41
+Angela Vergara Garcia,20122020854,Monitor,41
+Pedro Pinto Daronco,20122007912,Alumno Curso GNU,46
+Alfredo Daronco Baquero,20141025205,Alumno Curso GNU,50
+Susana Molina Caminero,20142015559,Alumno Curso GNU,43
+Jhonathan Fornals Pinto,20122005566,Alumno Curso GNU,41
+Susana Scarpetta Puig,20162025849,Asesoría Linux,42
+Luisa De La Rua Molina,20121025600,Ayudante,50
+Lionel Parra Cardenas,20122005288,Asesoría Linux,47
+Paula Malaver Parra,20141005253,Monitor,45
+Sebastian Rojas Nieto,20111015870,Alumno Curso GNU,45
+Alexa Thompson Scarpetta,20151025601,Asesoría Linux,48
+Lucia Perez Pardo,20111025905,Monitor,48
+Sofia Almonacid Malaver,20122007786,Hackathón,40
+Alfonso Escudero Garrido,20171020030,Hackathón,49
+Gustavo Benitez Espinel,20122020446,Secretario,42
+Ivanna Vargas Sarri,20131007925,Secretario,42
+Maria Scarpetta De La Rua,20172007635,Secretario,43
+Bayron Rubio Pitana,20181020388,Asesoría Linux,47
+Lucia Garces Pinto,20171015875,Secretario,45
+Andrea Bolaños Cardenas,20171020594,Monitor,47
+Ivanna Scarpetta Balaguera,20162020967,Hackathón,43
+Ana Dybala Pardo,20131005788,Alumno Curso GNU,41
+Maria Rubio Scarpetta,20132025275,Hackathón,43
+Jhonathan Torres Zúñiga,20122007968,Ayudante,48
+Esmeralda Espinel Vidal,20142007389,Asesoría Linux,42
+Juan Baquero Garces,20181020153,Ayudante,43
+Catalina Rojas Vergara,20162007831,Ayudante,43
+Paula Rojas Espinel,20141015140,Secretario,46
+Mauricio Torres Hernandez,20142005168,Secretario,42
+Lucia Ortiz De La Rua,20181005760,Ayudante,46
+Santiago Pinto Cadena,20161020371,Secretario,45
+Jose Molina Garrido,20151015761,Hackathón,45
+Mauricio Espinel Garces,20131025684,Asesoría Linux,49
+Sofia Almaguer Bolaños,20111020171,Secretario,43
+Natalie Garcia Zúñiga,20112015741,Monitor,44
+German Dybala Buscalia,20111015133,Monitor,40
+German Vargas Daronco,20161015223,Secretario,44
+Luisa Torres Puig,20182005817,Ayudante,45
+Cristian De La Rua Pertuz,20122020819,Secretario,43
+Jorge Baquero Garces,20122007195,Hackathón,44
+Daniel Escudero Cardozo,20122025610,Secretario,46
+Alejandro Pitana Pardo,20121020977,Hackathón,49
+Maria Pertuz Garces,20162025733,Hackathón,50
+Alfonso Sarri Daronco,20171007540,Ayudante,44
+Hernando Vidal Garrido,20141025204,Asesoría Linux,48
+Gustavo Caminero De Ligt,20131005318,Asesoría Linux,46
+Pedro Cardenas Vargas,20112025530,Hackathón,40
+Ximena Garcia Schmidt,20162005360,Monitor,46
+Cristian De Ligt Garcia,20122015656,Monitor,46
+Maria Malaver Zúñiga,20152007370,Alumno Curso GNU,50
+Andrea Dybala Daronco,20112020830,Secretario,48
+Priscila Dybala Cardenas,20162015382,Asesoría Linux,44
+Jhonathan Espinel Hernandez,20171020562,Asesoría Linux,45
+Angela Balaguera Garrido,20111005793,Ayudante,46
+Jose Escudero Sarri,20172005558,Hackathón,45
+Bryan Torres Almonacid,20112015164,Monitor,41
+Fernando Pertuz Daronco,20172005248,Monitor,41
+Juan Baquero Vidal,20171005179,Ayudante,47
+Valentina Hernandez Isla,20171025976,Hackathón,48
+German Caminero Isla,20141025023,Ayudante,48
+Alfredo Malaver Benitez,20172007091,Alumno Curso GNU,47
+Ana Torres Molina,20131007242,Asesoría Linux,48
+Federico Garcia Garcia,20141007727,Monitor,40
+Luis De La Rua Rojas,20141007607,Alumno Curso GNU,44
+Jhonathan Benitez Garcia,20161025859,Monitor,43
+Valentina Perez Pertuz,20121015245,Alumno Curso GNU,41
+Daniel Sarri Torres,20172025329,Secretario,45
+Jairo Torres Cadena,20112007239,Asesoría Linux,47
+Natalie Buscalia Pitana,20132005826,Hackathón,40
+Fernando Rodriguez Balaguera,20161020939,Asesoría Linux,40
+Juan Vargas Cardenas,20131005699,Asesoría Linux,46
+Monica Dybala Balaguera,20142025257,Alumno Curso GNU,41
+Bryan Fornals Balaguera,20182015185,Alumno Curso GNU,50
+Veronica Escudero Puig,20132015986,Asesoría Linux,49
+Alfredo Balaguera Daza,20131020750,Monitor,43
+Lionel Cardenas MontFerrer,20151007231,Secretario,47
+Bryan Garrido Vargas,20162005573,Asesoría Linux,48
+Alexa Schmidt Fornals,20132005421,Asesoría Linux,44
+Luisa Isla Cadena,20121015553,Secretario,50
+Susana Zúñiga Zúñiga,20152015359,Monitor,49
+Ximena Isla Molina,20182025245,Ayudante,49
+Ivanna Garcia Vergara,20131020998,Asesoría Linux,40
+Alexa Polanco Zúñiga,20141025082,Monitor,47
+Natalie Nieto Nieto,20151007163,Secretario,43
+Lionel Cardozo Rodriguez,20121015634,Alumno Curso GNU,49
+Bayron Benitez Isla,20182025608,Asesoría Linux,44
+Natalie Pinto Pertuz,20151020082,Asesoría Linux,45
+Valentina Isla Cardozo,20182020140,Ayudante,48
+Maria Daza Malaver,20142005625,Asesoría Linux,45
+Natalie Polanco Nieto,20181015016,Ayudante,50
+Monica Vergara Molina,20121005419,Asesoría Linux,49
+Esmeralda Schmidt Pardo,20112020448,Ayudante,44
+Bryan Cardenas Scarpetta,20141025366,Alumno Curso GNU,41
+Gustavo Rubio MontFerrer,20182007558,Asesoría Linux,41
+David Rodriguez MontFerrer,20182020383,Secretario,46
+Alfredo Vidal De Ligt,20121005679,Secretario,40
+Natalie De Ligt Daronco,20181025006,Secretario,49
+Luisa Molina Isla,20171007375,Hackathón,46
+Alexa Bolaños Almaguer,20172025626,Ayudante,40
+Jhonathan Cardenas Garces,20132005946,Ayudante,47
+Paula Almonacid Thompson,20142007198,Asesoría Linux,46
+Catalina De Ligt Baquero,20181025867,Secretario,40
+Sofia Almonacid Fornals,20171020180,Alumno Curso GNU,47
+Gustavo Almaguer Baquero,20141005418,Ayudante,42
+Ivanna Ortiz Isla,20132007013,Monitor,48
+Lucia Scarpetta Pertuz,20142007601,Alumno Curso GNU,46
+Ivanna De Ligt Sarri,20151007329,Hackathón,42
+Federico Caminero Pinto,20171005015,Alumno Curso GNU,50
+Ana Malaver Rubio,20172007450,Secretario,44
+Daniel Torres Pertuz,20142005510,Ayudante,42
+Priscila Isla Dybala,20141005491,Monitor,43
+Jose Benitez Pinto,20182005515,Ayudante,46
+Sebastian Garrido Pitana,20172020782,Ayudante,46
+Jairo Daza Almonacid,20122020549,Ayudante,46
+Andrea Vergara Rubio,20161015262,Ayudante,41
+Jorge Espinel Almaguer,20131020430,Asesoría Linux,45
+Alexa Garcia Vidal,20181020059,Hackathón,48
+Ana Thompson Pinto,20152025229,Secretario,41
+Jairo Perez Torres,20162020832,Ayudante,46
+Lionel Daronco Caminero,20172005319,Secretario,45
+Paula De La Rua Fornals,20172007483,Ayudante,49
+Maria Malaver Hernandez,20161007048,Ayudante,41
+Ana Molina Garrido,20121015461,Secretario,45
+Angela Isla Schmidt,20122005184,Asesoría Linux,48
+Jorge Vergara Vidal,20182015015,Monitor,41
+Ximena Schmidt Rojas,20161025946,Monitor,49
+Jorge Fornals Thompson,20182015574,Asesoría Linux,49
+Ximena Scarpetta Malaver,20142025424,Hackathón,49
+Lionel Nieto Dybala,20172025309,Monitor,47
+Juan De Ligt Daza,20182025888,Monitor,47
+Alexa Sarri Balaguera,20132020154,Asesoría Linux,47
+Jorge Espinel Hernandez,20182005617,Monitor,41
+Catalina Perez Ortiz,20131005635,Alumno Curso GNU,44
+Federico Almaguer Pertuz,20182015265,Ayudante,40
+Susana Isla Pinto,20152015940,Monitor,43
+Jhonathan Cardenas Scarpetta,20132005562,Asesoría Linux,44
+Natalie Pinto Dybala,20112007808,Ayudante,46
+Monica Vargas Baquero,20151007584,Ayudante,50
+Valentina Ortiz Daza,20172025745,Asesoría Linux,48
+Alfonso Hernandez Almonacid,20122015746,Asesoría Linux,49
+Federico Pertuz Rodriguez,20132005832,Monitor,49
+Veronica De Ligt Daza,20152025305,Alumno Curso GNU,40
+Catalina Pinto Almaguer,20131005758,Alumno Curso GNU,44
+Jose Dybala Espinel,20172015893,Hackathón,40
+Lucia Baquero Pinto,20131005245,Asesoría Linux,50
+Bayron Vidal Schmidt,20141005366,Hackathón,49
+Andrea Thompson Dybala,20152005746,Hackathón,45
+Bryan Rojas Puig,20131020365,Secretario,42
+Monica Thompson De La Rua,20181015042,Ayudante,49
+Andrea Dybala Cadena,20161005875,Alumno Curso GNU,50
+Santiago Buscalia Rojas,20132025464,Secretario,40
+Natalie De La Rua Almonacid,20161007860,Monitor,43
+Alfonso Garcia Daza,20132025182,Hackathón,43
+Catalina MontFerrer Garces,20172020257,Ayudante,50
+Lionel Dybala Vargas,20181005579,Ayudante,42
+Bayron Almaguer Caminero,20141005381,Ayudante,43
+Andrea Benitez De Ligt,20162025777,Asesoría Linux,44
+Jairo Garcia Almaguer,20132020754,Ayudante,42
+Bayron Pitana Caminero,20172015201,Secretario,49
+Susana Vargas Zúñiga,20131025572,Secretario,42
+Jose Torres Rojas,20121020880,Monitor,50
+Gustavo Caminero Pardo,20131015877,Ayudante,42
+Angela Caminero Puig,20121015531,Monitor,47
+Catalina Almonacid Pardo,20131015019,Ayudante,47
+Hernando MontFerrer Garcia,20152025620,Hackathón,49
+Susana Balaguera Caminero,20131015024,Ayudante,42
+Jorge Almaguer Benitez,20181007457,Hackathón,45
+Lucia Cardozo Dybala,20151025005,Hackathón,50
+Hernando Fornals Vidal,20122015846,Ayudante,43
+Valentina MontFerrer Thompson,20111020807,Hackathón,50
+Mauricio Garcia Baquero,20151020682,Hackathón,45
+Jorge MontFerrer Balaguera,20162020054,Alumno Curso GNU,45
+Federico Isla Thompson,20122015934,Ayudante,50
+Hernando Nieto Escudero,20181005168,Hackathón,42
+Valentina Dybala Puig,20121025941,Asesoría Linux,46
+Federico Daronco Daronco,20121025466,Monitor,48
+Alfredo Ortiz Buscalia,20182007283,Ayudante,43
+Valentina Vidal Hernandez,20182015429,Alumno Curso GNU,49
+Luisa Espinel Dybala,20141007277,Asesoría Linux,45
+Cristian Cardozo Benitez,20112007039,Alumno Curso GNU,41
+Priscila Cardenas Rodriguez,20142020125,Secretario,49
+Jhonathan Buscalia Cadena,20181015146,Monitor,44
+Lucia Almonacid Pinto,20112025060,Asesoría Linux,46
+Pedro Zúñiga Malaver,20161015611,Secretario,50
+Lucia Espinel Balaguera,20122020827,Ayudante,48
+Jose MontFerrer Daza,20182015362,Monitor,44
+Natalie De La Rua Almaguer,20131025882,Ayudante,49
+Angela Benitez Daronco,20122015702,Alumno Curso GNU,45
+Lucia Ortiz Cardozo,20161015718,Hackathón,48
+Federico Isla Ortiz,20142007017,Secretario,45
+Fernando Pitana Ortiz,20172025503,Ayudante,40
+Pedro Daza Thompson,20172025135,Hackathón,49
+Sofia Cardenas Malaver,20161020911,Secretario,42
+Sofia Nieto Almaguer,20172005163,Secretario,42
+Ximena Bolaños Cadena,20161025849,Secretario,44
+Natalie Bolaños Schmidt,20171020390,Ayudante,43
+Maria Hernandez Vidal,20121007024,Secretario,45
+Priscila Pinto Baquero,20121005269,Alumno Curso GNU,48
+Priscila Daronco Rodriguez,20122007275,Secretario,40
+Pedro Bolaños Parra,20131005016,Monitor,40
+Lionel Fornals Fornals,20151025567,Monitor,49
+Esmeralda Torres Garcia,20171007261,Ayudante,46
+Alejandro Parra Zúñiga,20121007217,Alumno Curso GNU,40
+Alejandro Garces Pinto,20182025331,Secretario,48
+Priscila Perez De La Rua,20151025127,Hackathón,47
+Jorge Garces Garrido,20111007233,Alumno Curso GNU,45
+Veronica Vargas Pinto,20161015955,Ayudante,50
+Gustavo Balaguera Molina,20111015895,Monitor,43
+Pedro Ortiz Scarpetta,20182007666,Hackathón,47
+Bryan Bolaños Caminero,20182025666,Ayudante,47
+Maria Pitana Molina,20161020290,Alumno Curso GNU,45
+Maria Pertuz Pinto,20182020704,Asesoría Linux,47
+Federico Cardenas Baquero,20171015442,Ayudante,43
+Lucia Pardo Schmidt,20152005343,Ayudante,46
+Juan Pertuz Vidal,20131007166,Ayudante,42
+Bayron Ortiz Escudero,20181025961,Secretario,40
+Lucia Malaver Vidal,20131007409,Ayudante,50
+Ivanna Baquero Caminero,20141007630,Ayudante,41
+Lucia Cadena Zúñiga,20112025263,Secretario,42
+Angela Rubio Cardozo,20161020488,Hackathón,44
+Jorge Garces Cadena,20162005618,Alumno Curso GNU,49
+German Garrido Cadena,20112015719,Monitor,41
+Alexa Ortiz Garces,20141005141,Ayudante,48
+Catalina Garces Nieto,20171025060,Monitor,40
+Santiago Torres Ortiz,20151020201,Ayudante,40
+Jose Benitez Almaguer,20122007178,Ayudante,43
+Alfonso Nieto Malaver,20122015612,Monitor,46
+Fernando Cardenas Bolaños,20122020028,Monitor,49
+Mauricio Sarri Parra,20112025210,Ayudante,40
+Angela Pinto Garces,20112015300,Alumno Curso GNU,45
+Angela Daronco MontFerrer,20112007794,Monitor,48
+Alfredo Cadena Pertuz,20131015403,Hackathón,46
+Federico Espinel Almaguer,20141015298,Asesoría Linux,44
+Catalina Garces De La Rua,20142020397,Asesoría Linux,48
+Gustavo Garcia Benitez,20112025809,Ayudante,42
+Veronica Torres Malaver,20132025305,Asesoría Linux,46
+Santiago Thompson Fornals,20172005486,Alumno Curso GNU,42
+Susana Benitez Espinel,20111020140,Secretario,40
+Luisa Scarpetta Escudero,20131007705,Alumno Curso GNU,47
+Santiago Rubio Vidal,20151005619,Hackathón,41
+Gustavo Rojas Garrido,20151007231,Alumno Curso GNU,40
+Alfonso Nieto Molina,20151020747,Ayudante,44
+Alfredo Daronco Ortiz,20161005008,Asesoría Linux,46
+Alejandro Malaver Daronco,20172015749,Hackathón,46
+Valentina Pertuz Malaver,20161020936,Ayudante,48
+Esmeralda Rodriguez Polanco,20141005892,Alumno Curso GNU,42
+Lucia Espinel Vargas,20132015107,Monitor,47
+Santiago Caminero Rojas,20151020399,Monitor,45
+Jairo MontFerrer Vergara,20121015405,Secretario,45
+Susana Pitana Pinto,20151015247,Alumno Curso GNU,50
+Alfonso Thompson De Ligt,20132025006,Ayudante,40
+Sofia Ortiz Bolaños,20171020729,Alumno Curso GNU,48
+Maria Malaver Zúñiga,20171005826,Alumno Curso GNU,47
+Luisa Benitez Pardo,20131005743,Monitor,40
+Alejandro Perez Cardenas,20131020754,Ayudante,45
+Alexa Baquero Ortiz,20122007792,Asesoría Linux,49
+Paula Nieto Vargas,20161015759,Alumno Curso GNU,49
+Monica Sarri Bolaños,20121007903,Alumno Curso GNU,48
+Natalie Torres Pertuz,20141005096,Ayudante,43
+Catalina Dybala Schmidt,20172020596,Secretario,48
+Ximena Cadena Cardozo,20152007285,Asesoría Linux,46
+Jorge Parra Espinel,20141005612,Monitor,49
+Ivanna Puig Ortiz,20181007487,Monitor,49
+Luis Nieto Garrido,20161005758,Asesoría Linux,50
+Alejandro Parra Garcia,20151007033,Hackathón,40
+Angela Benitez Dybala,20182015833,Monitor,45
+Priscila Puig Malaver,20152015404,Secretario,42
+Ivanna Buscalia Balaguera,20111005545,Ayudante,48
+Mauricio Espinel Daronco,20131015654,Ayudante,45
+Alexa Parra Torres,20132005066,Ayudante,47
+Pedro Fornals De La Rua,20162015826,Asesoría Linux,40
+Sebastian Buscalia Vargas,20172025761,Monitor,40
+Andrea Pertuz Hernandez,20152005629,Secretario,50
+Cristian Bolaños Cadena,20161025896,Ayudante,43
+Catalina Rodriguez Rubio,20181015817,Ayudante,43
+Natalie Pardo Puig,20181015432,Monitor,44
+Daniel Cardozo Pitana,20161020635,Asesoría Linux,49
+Maria Fornals Daza,20111007191,Ayudante,47
+Hernando Bolaños Garces,20182005896,Alumno Curso GNU,48
+Cristian Vergara Espinel,20112007676,Asesoría Linux,42
+David Rodriguez Dybala,20132025055,Asesoría Linux,40
+Ivanna Zúñiga Escudero,20171020561,Monitor,44
+Natalie Benitez Garcia,20172005142,Hackathón,47
+Mauricio Ortiz Polanco,20111007457,Monitor,46
+Bryan Vergara Nieto,20161015508,Monitor,45
+Pedro Pardo Cadena,20151020507,Secretario,43
+Natalie Rodriguez Parra,20141020571,Alumno Curso GNU,45
+Catalina Fornals Garces,20162015605,Alumno Curso GNU,48
+Cristian Buscalia Vidal,20121020717,Ayudante,40
+Daniel Vargas Isla,20171015210,Alumno Curso GNU,46
+Alexa Cardozo Pitana,20141025247,Hackathón,41
+Lionel Malaver Garrido,20151007551,Hackathón,40
+Daniel Thompson Scarpetta,20112005933,Alumno Curso GNU,49
+Federico Escudero Sarri,20152025110,Ayudante,40
+Gustavo Buscalia Garces,20132025373,Alumno Curso GNU,47
+Maria Ortiz Rubio,20171007618,Asesoría Linux,41
+Sofia Vargas Ortiz,20151020528,Asesoría Linux,47
+Federico Caminero Zúñiga,20121020768,Ayudante,50
+Federico Hernandez Parra,20141025108,Asesoría Linux,46
+Jose Pertuz Pitana,20162015453,Alumno Curso GNU,43
+Natalie Schmidt Isla,20181005121,Asesoría Linux,44
+Andrea Vargas Nieto,20141007944,Ayudante,49
+Angela Balaguera Cadena,20142007958,Asesoría Linux,49
+Bayron Thompson Balaguera,20181015997,Asesoría Linux,49
+Gustavo Schmidt Buscalia,20171020174,Ayudante,48
+Pedro Almaguer Cardozo,20171020992,Asesoría Linux,49
+Ivanna Balaguera Torres,20132005120,Monitor,42
+Catalina Scarpetta Pitana,20112025970,Hackathón,42
+Ivanna Rodriguez Vidal,20122005557,Ayudante,50
+Esmeralda Caminero Parra,20152025795,Asesoría Linux,48
+Ana Cardozo De La Rua,20181020920,Alumno Curso GNU,43
+Ivanna Scarpetta Benitez,20121005037,Ayudante,40
+Angela Perez Schmidt,20131007461,Monitor,43
+Alfredo Balaguera Malaver,20112007794,Secretario,45
+Hernando De La Rua Vidal,20171025963,Secretario,42
+Valentina Garcia Daza,20172025735,Asesoría Linux,49
+Lucia Daza Daza,20122007367,Ayudante,42
+Gustavo Fornals Daronco,20172025409,Alumno Curso GNU,50
+Daniel Perez Vidal,20151007709,Secretario,40
+Gustavo Rojas Vargas,20161015129,Ayudante,41
+Alfredo Escudero De La Rua,20171007327,Alumno Curso GNU,49
+Bayron Pitana Puig,20152005599,Secretario,47
+German Rojas Vergara,20161025672,Secretario,50
+Andrea Rubio Vergara,20161020194,Hackathón,48
+Natalie Pinto Torres,20161020052,Monitor,44
+Angela Daronco Ortiz,20162005223,Asesoría Linux,48
+Sebastian Scarpetta Polanco,20151020541,Hackathón,49
+Priscila De Ligt Garrido,20171015849,Secretario,40
+Jairo Benitez Vidal,20131007134,Asesoría Linux,47
+German MontFerrer Cadena,20141007414,Alumno Curso GNU,49
+Veronica Almonacid Balaguera,20132007447,Hackathón,41
+Juan MontFerrer Isla,20121007768,Alumno Curso GNU,43
+Lucia Isla Zúñiga,20151020894,Asesoría Linux,49
+Maria De La Rua Cardenas,20112025425,Asesoría Linux,42
+Ximena Garces Baquero,20111020693,Monitor,48
+Maria Benitez Almonacid,20181007962,Ayudante,41
+Angela Malaver Rodriguez,20162005478,Ayudante,45
+Maria Cardenas De Ligt,20162005716,Monitor,49
+Santiago Pitana De La Rua,20151007748,Hackathón,41
+Susana Ortiz Caminero,20182025590,Hackathón,47
+Natalie Perez Baquero,20152005874,Secretario,46
+Alejandro Balaguera Cardenas,20121007593,Alumno Curso GNU,48
+Priscila Cardenas Almaguer,20171015576,Asesoría Linux,48
+Daniel Thompson Daronco,20182015911,Monitor,48
+David Garces Caminero,20141005157,Hackathón,45
+Sofia Molina Vidal,20122025246,Monitor,41
+Natalie Schmidt Polanco,20152015663,Secretario,46
+Lucia Rubio Garces,20181007092,Alumno Curso GNU,45
+Jose Rubio Pardo,20172020729,Monitor,46
+Cristian Escudero Torres,20111025192,Alumno Curso GNU,45
+Cristian Daza Pitana,20122015835,Ayudante,46
+Jairo Daza Balaguera,20142025448,Hackathón,44
+Alejandro Puig Torres,20142020977,Hackathón,49
+Santiago Schmidt Cardozo,20171020936,Hackathón,46
+Alfredo MontFerrer Thompson,20132015082,Asesoría Linux,41
+Juan Pardo Nieto,20161020630,Asesoría Linux,41
+Veronica Caminero Garrido,20141025590,Hackathón,46
+Sofia Sarri Pinto,20151025551,Monitor,50
+Priscila MontFerrer Almaguer,20121025002,Secretario,41
+Natalie Parra Vergara,20121005371,Secretario,45
+Valentina Espinel Almaguer,20122020783,Alumno Curso GNU,45
+Veronica Pardo Vidal,20121007416,Ayudante,48
+Jorge Almaguer Molina,20111005127,Ayudante,48
+Esmeralda Dybala Pitana,20142007521,Secretario,48
+Andrea Molina Schmidt,20111020634,Alumno Curso GNU,47
+Valentina Benitez Nieto,20181007737,Monitor,40
+Angela Parra Schmidt,20152025911,Alumno Curso GNU,50
+Andrea Baquero Buscalia,20111025440,Asesoría Linux,47
+Santiago Vergara De La Rua,20142025717,Asesoría Linux,41
+Gustavo Escudero Garrido,20182015131,Hackathón,40
+Pedro Bolaños Torres,20112025999,Alumno Curso GNU,42
+Natalie MontFerrer Scarpetta,20182015377,Asesoría Linux,50
+Alfonso Pitana Ortiz,20162025616,Monitor,40
+Luis Pertuz Vergara,20181007928,Monitor,45
+German Zúñiga Daronco,20151007449,Alumno Curso GNU,44
+Alfonso Daronco Pertuz,20121005100,Monitor,44
+Ana Garces Rodriguez,20121025594,Asesoría Linux,50
+Valentina Fornals Dybala,20151025333,Secretario,45
+Ivanna Fornals Pertuz,20132025718,Monitor,41
+Susana Nieto Pertuz,20132007612,Asesoría Linux,48
+Andrea Daronco Nieto,20172005034,Hackathón,49
+Cristian De Ligt Isla,20182020423,Monitor,44
+Hernando Ortiz Daronco,20131005607,Asesoría Linux,43
+Ivanna Almonacid Pardo,20131005252,Alumno Curso GNU,44
+Esmeralda Pertuz Baquero,20172025444,Hackathón,44
+German Pinto Vergara,20152007946,Ayudante,49
+German Rubio Benitez,20122007121,Asesoría Linux,43
+Luisa Schmidt Baquero,20181007287,Secretario,43
+Jhonathan Isla Isla,20182025199,Secretario,49
+Gustavo Daza Sarri,20152020051,Secretario,44
+Lucia Cardozo Garces,20142007814,Asesoría Linux,42
+Luis Nieto Rubio,20142020630,Asesoría Linux,40
+Angela Polanco Cardozo,20121015087,Monitor,44
+Monica Rojas Vidal,20172020486,Alumno Curso GNU,45
+David Puig Dybala,20112025738,Ayudante,44
+Alfredo Molina De La Rua,20182005981,Hackathón,40
+Ana Vergara Escudero,20131025786,Ayudante,49
+Lionel Ortiz Fornals,20171007249,Asesoría Linux,43
+Lucia Puig Malaver,20121015892,Alumno Curso GNU,49
+Alfredo Garrido Garces,20161015311,Hackathón,50
+Esmeralda Zúñiga Perez,20142007203,Secretario,44
+Priscila Pertuz Fornals,20162007416,Alumno Curso GNU,41
+Jhonathan Rodriguez Polanco,20161005585,Hackathón,40
+Andrea Pardo Cardozo,20181025456,Secretario,40
+Jairo Vidal Rubio,20121007087,Ayudante,49
+David Sarri Cadena,20171015055,Alumno Curso GNU,42
+Priscila Puig Rojas,20132020399,Monitor,48
+Alexa MontFerrer Garces,20121007232,Secretario,49
+Alejandro De Ligt Torres,20112005479,Ayudante,49
+Juan Bolaños Garces,20142015108,Monitor,47
+Sebastian Pinto Hernandez,20161007232,Monitor,50
+Lionel Garrido Caminero,20141005104,Secretario,47
+Valentina Cardozo Rodriguez,20152020481,Asesoría Linux,49
+Maria Benitez Sarri,20171015379,Secretario,40
+Natalie Puig Rubio,20162020754,Asesoría Linux,47
+Lucia Garrido Cadena,20162015756,Secretario,47
+Luisa Torres Vergara,20111020728,Asesoría Linux,41
+Juan Polanco Parra,20151020519,Secretario,42
+Ana Vergara Parra,20161005988,Alumno Curso GNU,43
+Lucia Isla Polanco,20111007764,Ayudante,46
+Ximena Parra Perez,20171005789,Secretario,48
+Hernando Sarri Ortiz,20162005143,Asesoría Linux,47
+Mauricio Hernandez De La Rua,20162015253,Secretario,47
+Maria Nieto Espinel,20182025047,Alumno Curso GNU,46
+Jorge Garcia Isla,20111007849,Alumno Curso GNU,47
+Ivanna Almonacid De La Rua,20122025717,Ayudante,45
+Mauricio Daza De La Rua,20181020794,Asesoría Linux,46
+Jose Escudero Parra,20142020985,Ayudante,47
+Maria Puig De La Rua,20162025571,Asesoría Linux,46
+Jorge Vidal Zúñiga,20181025577,Alumno Curso GNU,44
+Bayron Cadena Polanco,20112015997,Hackathón,49
+Santiago Fornals Garrido,20141025465,Hackathón,43
+Paula Sarri Ortiz,20182005537,Secretario,46
+Veronica Parra Ortiz,20151015571,Asesoría Linux,40
+Bayron Malaver Buscalia,20162025874,Ayudante,43
+Valentina Fornals Sarri,20182015993,Ayudante,42
+Alejandro Perez Vergara,20171020964,Ayudante,46
+Luisa Buscalia Garcia,20181005530,Hackathón,44
+Andrea Hernandez Hernandez,20171020675,Hackathón,48
+Gustavo Parra Benitez,20182020872,Alumno Curso GNU,50
+Cristian Parra Perez,20131007896,Hackathón,47
+Alexa Molina Polanco,20112015052,Secretario,48
+Pedro Polanco Garcia,20152005151,Hackathón,42
+Priscila Cardenas Daronco,20122005813,Secretario,47
+Federico Almonacid Bolaños,20151007983,Ayudante,42
+Daniel Cardozo Espinel,20182025937,Ayudante,48
+Veronica Ortiz Garrido,20131015252,Hackathón,41
+Juan Fornals Bolaños,20162025953,Alumno Curso GNU,43
+Catalina Polanco Daza,20122025049,Alumno Curso GNU,42
+Gustavo Cadena Pitana,20122007856,Hackathón,46
+Priscila Almaguer Molina,20141007092,Monitor,49
+Angela Rodriguez Rubio,20122005206,Secretario,49
+German Malaver Pardo,20131005141,Alumno Curso GNU,40
+Priscila Schmidt Balaguera,20182007695,Asesoría Linux,50
+Veronica Vargas Caminero,20112005676,Monitor,43
+Santiago Pertuz Pinto,20171015279,Ayudante,47
+Andrea Bolaños Daronco,20172005512,Secretario,48
+Pedro Malaver Bolaños,20171015964,Ayudante,42
+Alfonso Scarpetta Rodriguez,20142007517,Hackathón,41
+Sofia Rodriguez Scarpetta,20132005568,Secretario,41
+Valentina Malaver Balaguera,20132005535,Monitor,48
+Santiago Vidal Scarpetta,20132007163,Asesoría Linux,42
+Alexa Isla Caminero,20112005097,Alumno Curso GNU,48
+Esmeralda Daza Dybala,20131005516,Alumno Curso GNU,41
+Lionel Nieto Daza,20122005478,Alumno Curso GNU,42
+Veronica Schmidt Balaguera,20111005509,Hackathón,41
+Veronica Pertuz Balaguera,20112007271,Hackathón,45
+Sofia Isla De La Rua,20182007678,Ayudante,45
+Lionel Pinto Vergara,20122005065,Secretario,48
+Lucia Pinto Zúñiga,20162020811,Asesoría Linux,48
+Susana MontFerrer Scarpetta,20172015776,Asesoría Linux,48
+Alexa Escudero Vergara,20151025074,Asesoría Linux,45
+Jhonathan Rodriguez De Ligt,20121015118,Secretario,47
+Veronica Benitez Cadena,20181015754,Alumno Curso GNU,46
+Juan Scarpetta Escudero,20122025549,Ayudante,49
+Santiago De La Rua Malaver,20151005388,Ayudante,48
+Susana Hernandez Perez,20182015848,Monitor,48
+Angela Rubio Daronco,20131007609,Ayudante,42
+Jhonathan Puig Vidal,20161015399,Asesoría Linux,46
+Jose Rubio Torres,20182007661,Monitor,47
+Alejandro Garces Bolaños,20181015062,Alumno Curso GNU,47
+Luisa De La Rua Cardozo,20172020337,Secretario,45
+Lionel Hernandez Parra,20121005425,Monitor,46
+Alexa Zúñiga Vargas,20131020265,Ayudante,40
+Angela MontFerrer Molina,20171015108,Ayudante,41
+Cristian Molina Hernandez,20132005700,Monitor,43
+Hernando Caminero Rodriguez,20141015794,Monitor,47
+Paula Polanco Nieto,20161007841,Asesoría Linux,42
+Lucia Caminero Balaguera,20151005913,Monitor,41
+Ana De La Rua Malaver,20161005581,Asesoría Linux,43
+Veronica Molina Cardenas,20151007342,Monitor,43
+Fernando De La Rua Molina,20152005520,Monitor,49
+Luisa De Ligt Rojas,20112025408,Secretario,44
+Catalina De Ligt MontFerrer,20132007979,Asesoría Linux,47
+Santiago Isla Parra,20172025214,Hackathón,50
+Pedro Bolaños Vergara,20161020735,Asesoría Linux,42
+Priscila Balaguera Rubio,20182025532,Asesoría Linux,48
+Bayron Pitana Cardozo,20112025851,Secretario,46
+Bayron Cardozo Ortiz,20172025063,Monitor,42
+Lucia Garrido Caminero,20122020189,Secretario,42
+Pedro Almonacid Parra,20162005777,Hackathón,40
+Valentina Pinto Vargas,20151025541,Monitor,42
+Bryan Schmidt Rodriguez,20161005936,Hackathón,40
+Alfonso Balaguera Scarpetta,20151020867,Asesoría Linux,44
+David Balaguera Hernandez,20151007952,Monitor,50
+Ivanna Garrido Pitana,20162025309,Monitor,48
+Lionel Vidal Espinel,20151020392,Monitor,46
+Pedro Buscalia Fornals,20151007050,Secretario,50
+Gustavo Scarpetta Balaguera,20162020397,Alumno Curso GNU,48
+Maria Torres Dybala,20161005818,Ayudante,41
+Santiago Thompson Nieto,20142025636,Ayudante,47
+Alexa Almonacid Vidal,20151025432,Monitor,47
+Susana Sarri Pitana,20121015883,Asesoría Linux,42
+Jairo Cardenas Garrido,20142015843,Ayudante,42
+Catalina Daronco Daza,20151015685,Secretario,48
+Bryan De Ligt Balaguera,20131005881,Hackathón,47
+Cristian Sarri Baquero,20151020502,Asesoría Linux,41
+Sofia Schmidt Thompson,20181005725,Ayudante,50
+Valentina Rodriguez Dybala,20172020058,Alumno Curso GNU,41
+Federico Pitana Balaguera,20121007381,Ayudante,47
+Monica Nieto Polanco,20161015981,Secretario,47
+Paula Nieto Buscalia,20151007152,Alumno Curso GNU,44
+Lucia Cadena Garcia,20182025426,Asesoría Linux,48
+Alejandro Scarpetta Rubio,20142005336,Asesoría Linux,50
+Gustavo Espinel Pertuz,20132007599,Asesoría Linux,40
+Mauricio Daza Polanco,20142005954,Monitor,50
+Santiago Garces De Ligt,20112007616,Monitor,50
+Sofia Rodriguez Pinto,20171020179,Hackathón,44
+Juan Scarpetta Fornals,20131007469,Secretario,40
+Luisa Pinto Thompson,20172007378,Asesoría Linux,47
+Alejandro Espinel Cardozo,20122025969,Monitor,41
+Ivanna Parra Daronco,20182020618,Hackathón,44
+Federico Perez Zúñiga,20121015620,Ayudante,42
+Sofia Rubio Sarri,20182005482,Asesoría Linux,42
+Lucia Sarri Rubio,20122020334,Monitor,50
+Valentina Cardenas Hernandez,20171025787,Monitor,49
+Luis Dybala Almonacid,20171015836,Ayudante,43
+Angela Cardozo Vargas,20152020801,Alumno Curso GNU,50
+Jairo Bolaños Rubio,20121007135,Alumno Curso GNU,46
+Hernando Vergara Perez,20182020446,Ayudante,43
+David Cardenas Balaguera,20172025388,Hackathón,44
+Lionel Rodriguez Rojas,20161007986,Monitor,46
+Sofia Almonacid Pardo,20181007164,Alumno Curso GNU,48
+Andrea Almaguer Schmidt,20131015933,Alumno Curso GNU,47
+Sofia Nieto Zúñiga,20152005159,Asesoría Linux,45
+Ana De La Rua Daronco,20172020948,Ayudante,40
+Ximena Thompson Rubio,20112025727,Asesoría Linux,40
+Alfredo Rodriguez Schmidt,20151007791,Secretario,48
+Alexa Puig De Ligt,20112005646,Alumno Curso GNU,46
+Cristian Garrido Hernandez,20132007092,Monitor,50
+Jorge Puig Balaguera,20151015450,Secretario,46
+Monica Pertuz Scarpetta,20182015126,Hackathón,45
+Ana Rubio Pinto,20131015298,Alumno Curso GNU,50
+Luisa Scarpetta Nieto,20141005190,Alumno Curso GNU,44
+Bayron Benitez Pinto,20152020596,Asesoría Linux,42
+Catalina Ortiz Baquero,20131025713,Asesoría Linux,44
+Angela Vidal Buscalia,20161007803,Monitor,40
+Esmeralda Pitana Polanco,20182025018,Secretario,40
+Maria Scarpetta Cardenas,20142007194,Monitor,49
+Paula Daronco Benitez,20152005277,Secretario,41
+Hernando Scarpetta Rubio,20122005633,Secretario,47
+Jorge Benitez Perez,20112007344,Asesoría Linux,43
+Andrea Torres Bolaños,20171007259,Ayudante,47
+Daniel Benitez Sarri,20181015850,Ayudante,50
+Luis Scarpetta Espinel,20161015395,Monitor,40
+Ana Vergara Almaguer,20111015570,Alumno Curso GNU,43
+Juan Cadena Molina,20111015534,Ayudante,43
+Veronica Vargas Sarri,20152007316,Monitor,40
+Catalina Puig Caminero,20171020388,Asesoría Linux,42
+Andrea Schmidt Puig,20151007510,Hackathón,46
+Bryan Almonacid Balaguera,20161007745,Asesoría Linux,43
+Juan Torres De Ligt,20182007453,Alumno Curso GNU,40
+Alfredo Dybala Molina,20162005268,Ayudante,44
+Priscila Vidal Almaguer,20121005034,Hackathón,42
+Cristian Schmidt Vidal,20182025150,Ayudante,46
+Sebastian Puig Isla,20152015160,Hackathón,47
+Alfredo Schmidt Vargas,20161015156,Asesoría Linux,40
+Ana Torres Torres,20112025208,Asesoría Linux,48
+Sofia MontFerrer Dybala,20161005147,Hackathón,46
+Daniel Caminero Vidal,20121005527,Asesoría Linux,41
+Esmeralda Polanco Rubio,20172015167,Asesoría Linux,50
+Natalie Polanco Malaver,20141025262,Ayudante,43
+Veronica Pertuz Hernandez,20132020182,Monitor,44
+Natalie Caminero Cadena,20152015724,Monitor,42
+Alexa Almaguer Balaguera,20112007448,Asesoría Linux,49
+German Fornals Cardenas,20172025891,Hackathón,41
+Ivanna Rubio Thompson,20171015475,Hackathón,48
+Luis Pertuz Rodriguez,20182007307,Alumno Curso GNU,44
+Maria Rodriguez Fornals,20162020540,Secretario,40
+Ivanna Pardo Fornals,20152007024,Asesoría Linux,50
+Fernando Rodriguez Puig,20161005670,Alumno Curso GNU,45
+Jhonathan Benitez Puig,20182025475,Hackathón,50
+Natalie Bolaños Parra,20112020210,Alumno Curso GNU,48
+Ana Buscalia Dybala,20162020001,Secretario,48
+Bayron Parra Parra,20162005735,Hackathón,43
+Priscila Nieto Pitana,20181007407,Monitor,46
+Valentina Baquero Bolaños,20131015541,Ayudante,44
+Angela Daronco Buscalia,20141020929,Secretario,49
+Ximena Pinto Rojas,20112015579,Monitor,42
+David Vargas Thompson,20172007416,Hackathón,41
+Gustavo Isla Hernandez,20151025193,Alumno Curso GNU,48
+Veronica MontFerrer Malaver,20172005993,Secretario,50
+Sebastian Vergara Escudero,20171015863,Asesoría Linux,47
+Gustavo Rodriguez Garces,20111025849,Asesoría Linux,49
+Ana Escudero Ortiz,20162015428,Secretario,43
+Bayron Garrido Daza,20171015792,Secretario,44
+Ana Thompson Vargas,20141015220,Asesoría Linux,41
+Angela De Ligt Cadena,20152015867,Alumno Curso GNU,43
+Pedro Zúñiga Ortiz,20132020221,Secretario,47
+Jhonathan Pinto Espinel,20161020788,Asesoría Linux,50
+Esmeralda Perez Perez,20142025749,Secretario,42
+Fernando Vidal De La Rua,20141025779,Hackathón,40
+Luisa Sarri Espinel,20181005439,Monitor,43
+Mauricio De La Rua Baquero,20132020015,Hackathón,40
+Alejandro Perez De La Rua,20181020476,Asesoría Linux,46
+Valentina Cardozo Polanco,20122015387,Asesoría Linux,47
+Priscila Espinel Pinto,20112015526,Asesoría Linux,40
+Catalina Rodriguez Malaver,20142015566,Monitor,43
+Susana Vergara Isla,20181007201,Alumno Curso GNU,47
+Veronica Perez Malaver,20182005867,Secretario,46
+Valentina Parra Hernandez,20181007734,Alumno Curso GNU,48
+Hernando Dybala Dybala,20162007384,Secretario,42
+Pedro Perez Polanco,20152007134,Secretario,44
+Jhonathan Pinto Parra,20181025009,Alumno Curso GNU,44
+Bryan Fornals Vidal,20112025667,Alumno Curso GNU,45
+Bryan Molina Zúñiga,20152025035,Alumno Curso GNU,47
+Luisa Baquero Dybala,20162020410,Ayudante,45
+David Vergara Vergara,20172007234,Ayudante,42
+Lionel Daronco Buscalia,20172007102,Monitor,40
+Andrea Perez Almaguer,20151005891,Alumno Curso GNU,47
+Valentina Cadena Malaver,20112020821,Asesoría Linux,47
+Esmeralda De Ligt Cardozo,20171005375,Hackathón,40
+Sofia Buscalia Garcia,20142015025,Secretario,46
+Natalie Escudero Balaguera,20182020933,Hackathón,44
+Valentina Daronco Polanco,20121007967,Secretario,40
+Luis Molina Scarpetta,20152007117,Ayudante,41
+Hernando Daza Pinto,20161005222,Asesoría Linux,46
+Veronica Caminero Pinto,20161025632,Hackathón,41
+Alexa Schmidt Almaguer,20112007376,Hackathón,40
+Angela Daza Dybala,20132025353,Secretario,43
+Jairo Pitana Cadena,20182007708,Monitor,44
+Alfredo Almonacid Zúñiga,20122020362,Hackathón,44
+Ximena Scarpetta Balaguera,20151020280,Monitor,41
+Fernando Vargas Parra,20162015620,Asesoría Linux,41
+Monica Pinto Pinto,20121007859,Monitor,47
+Jairo Pitana Daronco,20141015937,Monitor,50
+Luisa Bolaños Scarpetta,20182007898,Alumno Curso GNU,43
+Paula Rojas Espinel,20171007743,Ayudante,42
+Veronica Puig Almonacid,20162020311,Hackathón,43
+David Isla MontFerrer,20182005325,Alumno Curso GNU,42
+Bryan Garrido Puig,20152007047,Ayudante,40
+Angela Puig Thompson,20161005015,Alumno Curso GNU,48
+Fernando Espinel Cardenas,20122007660,Alumno Curso GNU,47
+Angela Polanco Garces,20161015849,Asesoría Linux,50
+Alejandro Pitana Hernandez,20161025759,Monitor,47
+Alexa Vergara Thompson,20131007788,Asesoría Linux,41
+Lionel Daza Puig,20182020164,Monitor,42
+Veronica MontFerrer Isla,20142007021,Secretario,50
+Paula Garces Parra,20141025094,Ayudante,42
+Priscila Garcia Zúñiga,20151005836,Alumno Curso GNU,47
+Federico Rubio Pinto,20131015124,Alumno Curso GNU,43
+Jhonathan Puig Almonacid,20152020640,Asesoría Linux,50
+Cristian Isla Espinel,20161025665,Monitor,44
+Valentina Malaver Baquero,20162025733,Monitor,45
+Esmeralda MontFerrer Polanco,20161005404,Secretario,46
+Angela Rojas Pardo,20112005631,Alumno Curso GNU,41
+Susana Fornals Caminero,20131015009,Secretario,49
+Esmeralda MontFerrer Cadena,20142025201,Asesoría Linux,46
+Angela Schmidt Espinel,20151020322,Secretario,42
+Juan Cardenas Espinel,20141025486,Ayudante,49
+Mauricio Sarri Ortiz,20132007759,Asesoría Linux,42
+Paula De La Rua Polanco,20172007669,Ayudante,40
+Monica De La Rua Vidal,20142020621,Hackathón,46
+Lionel Escudero Buscalia,20171007558,Alumno Curso GNU,47
+Luis Isla Puig,20122005964,Asesoría Linux,40
+Santiago Ortiz Benitez,20151020736,Alumno Curso GNU,48
+Alfredo Buscalia Rubio,20121020372,Alumno Curso GNU,47
+Veronica Almonacid Benitez,20132005757,Asesoría Linux,43
+Luis Garrido Caminero,20132015062,Monitor,44
+Luisa Garrido Parra,20131020123,Monitor,44
+Gustavo Rojas Rodriguez,20172020555,Asesoría Linux,46
+Catalina Bolaños Garrido,20111015967,Secretario,50
+Sofia Thompson Schmidt,20152005259,Ayudante,50
+Alfonso Polanco Perez,20142025957,Alumno Curso GNU,44
+Maria MontFerrer Schmidt,20141025446,Monitor,42
+Angela Parra Garcia,20162007241,Monitor,46
+Bryan Daronco Almaguer,20132005684,Alumno Curso GNU,46
+Mauricio De Ligt De La Rua,20122005524,Asesoría Linux,47
+Ivanna Rojas Buscalia,20142020336,Monitor,43
+Bayron Vargas Almonacid,20161015619,Hackathón,47
+Luisa Parra Ortiz,20161020437,Ayudante,50
+Gustavo Pitana Pardo,20162025977,Monitor,50
+Ivanna Fornals Escudero,20111015669,Monitor,46
+Ximena Cardenas De La Rua,20132015140,Asesoría Linux,45
+Luisa Pitana Nieto,20171015289,Asesoría Linux,50
+Priscila Baquero Garrido,20151007574,Secretario,41
+Lionel Cardozo Baquero,20182025814,Hackathón,40
+Valentina Pitana Garcia,20161015701,Asesoría Linux,50
+Lionel Cardozo Molina,20122025769,Alumno Curso GNU,48
+Monica Schmidt Torres,20131025446,Hackathón,43
+Pedro Baquero Benitez,20121007797,Hackathón,41
+Ivanna Bolaños Almonacid,20182005511,Monitor,43
+Jorge Pardo Scarpetta,20132025330,Asesoría Linux,42
+Jorge Torres Daronco,20132007039,Hackathón,44
+Ana Pardo Pertuz,20141020551,Hackathón,40
+Bryan Vergara Garrido,20172015245,Ayudante,42
+Jairo Garces Zúñiga,20121015324,Monitor,48
+Fernando Nieto Ortiz,20182007518,Ayudante,41
+Monica Fornals Ortiz,20112005137,Secretario,49
+Susana Garces Cardozo,20141025110,Hackathón,48
+Valentina Thompson Balaguera,20152015855,Ayudante,45
+Esmeralda Rodriguez Perez,20171020204,Hackathón,44
+Priscila Caminero Vergara,20171005870,Hackathón,44
+Daniel Rodriguez Pardo,20152007569,Monitor,49
+Gustavo Dybala Schmidt,20151020730,Monitor,49
+Esmeralda Schmidt Dybala,20181015831,Asesoría Linux,40
+Gustavo Dybala Sarri,20182005499,Monitor,45
+Gustavo Pardo Rodriguez,20162007517,Asesoría Linux,47
+Luisa Almaguer Almonacid,20142015520,Hackathón,44
+Jairo Hernandez Daronco,20112005365,Hackathón,41
+Lionel Nieto Polanco,20122025983,Monitor,45
+Lionel Dybala Vargas,20172005679,Alumno Curso GNU,48
+Fernando Molina Vidal,20122020618,Ayudante,45
+Jorge Vargas Malaver,20112005944,Secretario,47
+Alfredo De La Rua Perez,20122005964,Ayudante,45
+Jhonathan Daza Dybala,20121020074,Monitor,43
+Priscila Escudero Garcia,20141005491,Monitor,43
+Luisa Rojas Espinel,20151005163,Asesoría Linux,47
+Ana Baquero Rodriguez,20172007963,Alumno Curso GNU,46
+David Schmidt Schmidt,20111005453,Secretario,41
+Alfredo De Ligt Balaguera,20172015619,Ayudante,50
+Federico Perez Cardozo,20152007402,Secretario,48
+Paula Fornals Nieto,20172007756,Secretario,41
+Paula Rodriguez Torres,20161007152,Hackathón,40
+Valentina Fornals Pitana,20161015371,Hackathón,46
+Esmeralda Scarpetta Cardozo,20161007024,Monitor,48
+Paula Rojas Caminero,20131005138,Secretario,45
+Sofia Garcia Schmidt,20111020493,Monitor,43
+Lucia Daza Fornals,20162005987,Hackathón,45
+Bayron Buscalia Balaguera,20111005078,Secretario,48
+Valentina Vidal Cadena,20171015848,Alumno Curso GNU,48
+Gustavo Hernandez Almonacid,20182025618,Hackathón,43
+Ivanna Garcia Almaguer,20161020002,Alumno Curso GNU,48
+Valentina Nieto Polanco,20151007617,Hackathón,42
+Gustavo Garrido Thompson,20181015940,Hackathón,50
+Angela Almonacid Nieto,20161007470,Ayudante,46
+David Daronco Balaguera,20161015396,Ayudante,40
+Daniel Cardozo Bolaños,20182007690,Ayudante,49
+Cristian Schmidt Puig,20121015815,Secretario,43
+Alexa Puig Cardozo,20182007501,Hackathón,40
+Valentina Scarpetta Vergara,20181020046,Alumno Curso GNU,46
+Angela Parra Balaguera,20142015047,Secretario,45
+Veronica Puig Torres,20142015459,Monitor,47
+Ivanna Balaguera Pinto,20172005283,Asesoría Linux,40
+Hernando Bolaños Puig,20112007950,Monitor,43
+Susana Pardo Pinto,20151005477,Secretario,46
+Ivanna Thompson Cadena,20151020736,Secretario,47
+Catalina Perez De Ligt,20122005492,Secretario,42
+Federico Pertuz Perez,20121005680,Secretario,44
+Santiago Cadena Hernandez,20121025478,Alumno Curso GNU,43
+Fernando Vidal Vargas,20162025668,Asesoría Linux,40
+David Rubio Baquero,20132025931,Secretario,46
+Sofia Daza Malaver,20151020116,Monitor,40
+Daniel Daza Vargas,20182015949,Asesoría Linux,42
+Ivanna Polanco Garces,20152015798,Asesoría Linux,42
+Monica Pinto Baquero,20121007269,Monitor,44
+Alfonso Benitez Parra,20151020010,Asesoría Linux,46
+Jairo Hernandez Schmidt,20171020484,Monitor,40
+Jhonathan Fornals Nieto,20162020597,Secretario,48
+Jhonathan Buscalia Almonacid,20162020823,Hackathón,48
+Alfredo Torres Scarpetta,20161005394,Alumno Curso GNU,42
+Alexa Vidal Nieto,20121025348,Hackathón,43
+Alejandro Schmidt Benitez,20142007013,Monitor,48
+Priscila Malaver Ortiz,20171007393,Secretario,50
+Ximena Hernandez Fornals,20161015821,Monitor,47
+Pedro Perez Rubio,20132020746,Ayudante,49
+Angela Nieto Thompson,20121005543,Asesoría Linux,47
+Alfonso Pitana MontFerrer,20172015840,Ayudante,43
+Valentina Cardozo Zúñiga,20151015183,Hackathón,46
+Cristian MontFerrer Vidal,20142020918,Hackathón,50
+Santiago Molina MontFerrer,20121005460,Monitor,40
+Paula Vidal Rodriguez,20181007566,Ayudante,45
+Pedro Benitez Benitez,20162025216,Hackathón,46
+Susana Dybala Ortiz,20141005196,Hackathón,42
+Luisa Scarpetta Caminero,20181005527,Asesoría Linux,50
+Catalina Isla Vidal,20122015998,Asesoría Linux,48
+Paula Espinel Pertuz,20122007313,Ayudante,40
+Lucia Rodriguez Pardo,20162015095,Hackathón,46
+Alejandro Vergara Pertuz,20112020590,Alumno Curso GNU,40
+Paula Molina Parra,20162015033,Asesoría Linux,43
+Jorge Almonacid De La Rua,20131015869,Secretario,41
+Sofia Bolaños Dybala,20162025857,Monitor,41
+Esmeralda Daronco Molina,20111005145,Monitor,43
+Angela Bolaños Hernandez,20162007208,Secretario,48
+Bryan Daronco Vergara,20141007527,Hackathón,44
+Susana Almonacid Dybala,20132025646,Ayudante,42
+Jhonathan Cardozo Espinel,20112015853,Alumno Curso GNU,46
+Luis Cardenas Caminero,20182025734,Asesoría Linux,50
+Veronica Almaguer Rodriguez,20172007553,Secretario,45
+Ximena Cardozo Almaguer,20172005709,Alumno Curso GNU,43
+Maria Garces Sarri,20172007904,Monitor,40
+Natalie Perez Perez,20152007370,Hackathón,48
+Lucia Scarpetta Caminero,20181015963,Secretario,45
+Luisa MontFerrer Thompson,20122005923,Secretario,49
+Gustavo De Ligt Almonacid,20131005505,Asesoría Linux,47
+German Puig Cadena,20151025901,Hackathón,50
+Alfredo Dybala Pardo,20172020079,Hackathón,48
+Valentina Rojas Espinel,20181007270,Asesoría Linux,45
+Susana Puig Malaver,20161025468,Asesoría Linux,46
+Federico Pitana Dybala,20122015202,Ayudante,42
+Valentina MontFerrer Rojas,20122020393,Ayudante,48
+Juan Scarpetta Garcia,20151025366,Ayudante,40
+Alejandro Dybala MontFerrer,20182020142,Alumno Curso GNU,43
+Paula Dybala Parra,20121007287,Alumno Curso GNU,44
+German Garrido Garrido,20182025222,Asesoría Linux,41
+Ivanna Perez Torres,20152020172,Alumno Curso GNU,50
+Gustavo Garcia Bolaños,20142020251,Monitor,42
+Alexa Perez Rodriguez,20132020312,Monitor,40
+Jose De Ligt Espinel,20172020097,Monitor,45
+Esmeralda Dybala Cardozo,20132025677,Alumno Curso GNU,45
+Sofia Bolaños Espinel,20131007530,Secretario,44
+Bryan Escudero Malaver,20121005682,Ayudante,43
+Luisa Thompson Parra,20181007668,Ayudante,50
+Andrea Cadena Vergara,20162015492,Secretario,43
+Sofia Sarri Rubio,20111025850,Alumno Curso GNU,44
+Jhonathan Cardozo Polanco,20172025097,Secretario,50
+Alejandro Vergara Bolaños,20152005113,Asesoría Linux,42
+Ana De La Rua Rubio,20132007988,Asesoría Linux,46
+Santiago Pitana Thompson,20131025610,Monitor,49
+Catalina Vergara Garrido,20161005560,Hackathón,47
+Maria Cardenas Scarpetta,20151007306,Secretario,40
+Juan Escudero Cardozo,20161020493,Ayudante,46
+Mauricio Daza Rodriguez,20132005542,Asesoría Linux,41
+Luis Isla Rojas,20111007539,Asesoría Linux,40
+Jhonathan Pinto Escudero,20181007372,Asesoría Linux,46
+Alfonso Balaguera Zúñiga,20152005787,Alumno Curso GNU,41
+Paula Vergara Cadena,20161007442,Hackathón,40
+Ximena Escudero Cadena,20182020396,Monitor,49
+Bayron Zúñiga Scarpetta,20152015859,Ayudante,46
+German Vargas Torres,20141025013,Ayudante,41
+Lionel Polanco Scarpetta,20111015009,Monitor,47
+Alfonso Molina De Ligt,20111007134,Asesoría Linux,50
+Susana Pertuz Molina,20142020662,Monitor,48
+Maria Pardo Almaguer,20141025365,Asesoría Linux,44
+Ximena Buscalia Vidal,20132020489,Ayudante,42
+Valentina Rojas Pertuz,20171007092,Alumno Curso GNU,40
+Susana Pardo De Ligt,20151020906,Alumno Curso GNU,47
+Monica Baquero MontFerrer,20111005663,Alumno Curso GNU,45
+Mauricio Rodriguez Balaguera,20171007466,Monitor,41
+Priscila Schmidt Cardenas,20151025299,Asesoría Linux,45
+Hernando Rojas Polanco,20142025144,Alumno Curso GNU,40
+Sofia Thompson Vidal,20111025437,Ayudante,47
+Veronica Balaguera Fornals,20162007262,Monitor,41
+Ivanna Scarpetta Thompson,20151007623,Asesoría Linux,47
+Ivanna Vergara Vargas,20162007913,Secretario,40
+Alfonso Thompson Pardo,20122005282,Monitor,48
+Santiago Scarpetta Escudero,20151007655,Alumno Curso GNU,43
+Sebastian Pertuz Torres,20112020648,Asesoría Linux,44
+Jorge Baquero Garrido,20152025179,Secretario,44
+Fernando Pertuz Baquero,20132025501,Asesoría Linux,41
+Sebastian Nieto Rodriguez,20182015436,Hackathón,48
+Santiago Escudero Rubio,20122020879,Alumno Curso GNU,47
+Natalie Espinel Garrido,20112005967,Asesoría Linux,48
+Esmeralda Zúñiga MontFerrer,20141020893,Hackathón,45
+Valentina Puig Caminero,20151015262,Asesoría Linux,45
+Maria Garrido Nieto,20122020605,Ayudante,50
+Esmeralda Schmidt Torres,20162007730,Alumno Curso GNU,40
+David Escudero Baquero,20111005349,Secretario,40
+Angela Torres Pertuz,20132007200,Alumno Curso GNU,42
+Juan Isla Balaguera,20141025844,Hackathón,47
+Ana Pertuz Escudero,20181007327,Secretario,48
+Alejandro Balaguera Baquero,20112025434,Asesoría Linux,46
+Cristian Garces Zúñiga,20122007606,Monitor,49
+Ximena Garcia Pinto,20122005203,Asesoría Linux,44
+Federico Rodriguez Pardo,20172007354,Alumno Curso GNU,43
+Bryan Buscalia Vargas,20131015171,Ayudante,41
+Natalie Pertuz Benitez,20171007340,Monitor,49
+Bayron Espinel Molina,20181007807,Ayudante,49
+Ximena Garces Baquero,20161015309,Alumno Curso GNU,40
+Sofia Schmidt Espinel,20161007661,Asesoría Linux,49
+Paula Isla Almaguer,20112007266,Alumno Curso GNU,47
+Paula Vargas Garces,20112015592,Alumno Curso GNU,47
+Angela Almonacid Sarri,20141007303,Asesoría Linux,41
+German Torres Schmidt,20121015654,Secretario,40
+Mauricio Vidal Pitana,20141020608,Asesoría Linux,42
+David Hernandez Dybala,20152005264,Ayudante,44
+Valentina Cardozo Polanco,20161007943,Hackathón,46
+Alexa Vidal Hernandez,20172007671,Alumno Curso GNU,43
+Cristian Isla Almaguer,20111025939,Alumno Curso GNU,46
+Monica Ortiz MontFerrer,20182020235,Alumno Curso GNU,42
+Gustavo Rubio Almaguer,20181005510,Hackathón,45
+Angela Escudero Parra,20112015487,Alumno Curso GNU,43
+Alfonso Garrido Thompson,20182015131,Secretario,47
+Cristian Hernandez Daronco,20172007170,Ayudante,45
+David Daza Schmidt,20142025333,Secretario,43
+German Molina Garces,20122005322,Hackathón,45
+Angela Malaver Malaver,20161020264,Ayudante,44
+Alfonso Bolaños Garcia,20132015897,Hackathón,49
+Federico Garcia Molina,20161020627,Secretario,48
+Susana Malaver Ortiz,20182015021,Asesoría Linux,45
+Federico Polanco Isla,20181015683,Secretario,46
+Catalina Thompson Zúñiga,20181015371,Hackathón,48
+Monica Almaguer Fornals,20152007736,Alumno Curso GNU,43
+Luis Garcia Scarpetta,20122015615,Hackathón,43
+Ivanna Daza Escudero,20141025765,Hackathón,48
+Veronica Daronco Cadena,20152005513,Hackathón,48
+Fernando Hernandez Puig,20112025301,Secretario,47
+Sebastian Ortiz Buscalia,20151020584,Secretario,40
+Catalina MontFerrer Nieto,20181020078,Ayudante,44
+Lucia Schmidt Schmidt,20182015736,Ayudante,41
+Lionel Cardozo Garrido,20171025079,Asesoría Linux,49
+Paula Pertuz Pitana,20181015807,Monitor,42
+Santiago Garcia Benitez,20131005752,Alumno Curso GNU,45
+David Scarpetta Thompson,20171025141,Hackathón,44
+Priscila Pitana Pinto,20162015459,Ayudante,50
+Bayron Ortiz Molina,20132007837,Alumno Curso GNU,41
+Sebastian De La Rua Vergara,20162020326,Asesoría Linux,42
+Alexa Garces Perez,20122015266,Asesoría Linux,50
+Esmeralda Vidal Pertuz,20122025884,Alumno Curso GNU,45
+Priscila Garrido Pertuz,20161015528,Hackathón,45
+Juan De Ligt De La Rua,20142007702,Hackathón,45
+Mauricio Pinto Espinel,20131025451,Hackathón,47
+Gustavo Scarpetta Dybala,20172007677,Monitor,45
+Catalina Vidal Hernandez,20162015635,Secretario,43
+Lucia Torres Cardenas,20151015175,Alumno Curso GNU,49
+Daniel Garcia Nieto,20132015509,Monitor,46
+Ana Almaguer Cardozo,20162025421,Asesoría Linux,50
+Andrea Pertuz Garrido,20162015391,Hackathón,49
+Catalina Puig De La Rua,20181005795,Secretario,47
+Sofia De Ligt Garcia,20182015914,Monitor,47
+Bryan Polanco Vidal,20121007712,Alumno Curso GNU,50
+Andrea Polanco Puig,20111005305,Monitor,42
+Fernando Fornals Torres,20151020648,Alumno Curso GNU,45
+Sebastian Isla Balaguera,20141025623,Asesoría Linux,48
+Jairo Cardozo Hernandez,20182005880,Ayudante,43
+Maria De Ligt Daza,20112025248,Secretario,42
+Priscila Almaguer Puig,20131025364,Asesoría Linux,49
+Alexa Scarpetta Balaguera,20132015152,Alumno Curso GNU,42
+Priscila Sarri Sarri,20121015409,Hackathón,43
+Alexa De La Rua Almaguer,20182007742,Alumno Curso GNU,42
+Jorge Molina Schmidt,20172007669,Ayudante,49
+Jhonathan Pinto Hernandez,20111005039,Asesoría Linux,41
+Juan Cardenas Pinto,20111025644,Asesoría Linux,45
+Jairo Perez Rojas,20151020426,Asesoría Linux,41
+Cristian Garces Espinel,20112020210,Monitor,41
+Cristian Molina Polanco,20161007144,Alumno Curso GNU,50
+Natalie Ortiz Rodriguez,20111007442,Hackathón,45
+Maria Vidal Caminero,20172015818,Monitor,49
+Jorge Scarpetta Cadena,20121015780,Ayudante,49
+Andrea Vergara Pinto,20112025149,Asesoría Linux,46
+Angela Daronco Thompson,20111007755,Ayudante,49
+Mauricio Schmidt Balaguera,20122025568,Ayudante,49
+Esmeralda Caminero Malaver,20172020890,Hackathón,49
+Lucia Daza Parra,20111025690,Monitor,50
+Jose Fornals Polanco,20131020361,Hackathón,42
+Bayron Dybala Cadena,20181005300,Monitor,47
+Gustavo Sarri Benitez,20172015327,Alumno Curso GNU,40
+Jose Daronco Garcia,20172020524,Alumno Curso GNU,43
+Fernando MontFerrer Caminero,20142007067,Alumno Curso GNU,47
+Angela Vargas Pitana,20152007756,Monitor,44
+Veronica Perez Pertuz,20131015928,Alumno Curso GNU,42
+Priscila Molina Baquero,20151015712,Monitor,44
+Pedro Zúñiga Rubio,20111005808,Hackathón,45
+Valentina Almaguer Garcia,20151015540,Ayudante,43
+Veronica Pardo Balaguera,20121025597,Hackathón,41
+David Scarpetta Sarri,20122005932,Monitor,50
+Gustavo Zúñiga Cardozo,20111005690,Monitor,43
+Natalie Parra De La Rua,20181005341,Ayudante,49
+Ximena Garrido Caminero,20132025521,Ayudante,50
+Santiago Dybala Daronco,20172015317,Asesoría Linux,41
+Alfredo Vidal Garrido,20171005970,Ayudante,43
+Ivanna Malaver Thompson,20172025246,Hackathón,41
+Monica Garces Pinto,20182007641,Secretario,50
+Sebastian Daza Garcia,20132007281,Ayudante,41
+Esmeralda Almaguer Garrido,20142015521,Monitor,40
+Santiago Vidal MontFerrer,20151005675,Secretario,47
+Angela Buscalia Scarpetta,20122005703,Hackathón,46
+Catalina Hernandez Pertuz,20152007109,Alumno Curso GNU,48
+German Daza Cadena,20181015707,Hackathón,49
+Jose Cadena Rodriguez,20122020287,Alumno Curso GNU,50
+Angela Cadena Bolaños,20121005875,Secretario,44
+Angela Garrido Sarri,20121025481,Asesoría Linux,44
+Federico Schmidt De La Rua,20112020344,Monitor,47
+Alejandro Parra Molina,20141005204,Secretario,41
+Valentina Thompson Garces,20121015758,Hackathón,49
+Priscila Cardozo Balaguera,20171015244,Hackathón,50
+Bayron Rojas Pinto,20152015959,Hackathón,42
+Luisa Polanco Almonacid,20171020132,Hackathón,42
+Jorge Schmidt Baquero,20141005309,Ayudante,46
+Alfonso Malaver Pertuz,20162015303,Secretario,40
+David Pinto Rubio,20112015562,Alumno Curso GNU,42
+Esmeralda Malaver Garrido,20181015147,Monitor,46
+Fernando De La Rua Espinel,20152020075,Alumno Curso GNU,40
+Lucia Garces Thompson,20171005756,Secretario,50
+Catalina Scarpetta Garrido,20141005416,Secretario,44
+Alfredo Dybala Cadena,20162015530,Asesoría Linux,47
+Ana Zúñiga Benitez,20112025924,Secretario,48
+Esmeralda Espinel Cardenas,20151020269,Alumno Curso GNU,50
+Maria Cardenas Almonacid,20131015522,Asesoría Linux,42
+Pedro MontFerrer De Ligt,20122015760,Secretario,48
+Veronica Polanco Pardo,20151015235,Monitor,49
+Bayron Vergara Rodriguez,20181025147,Asesoría Linux,49
+Juan Perez Puig,20182005171,Asesoría Linux,49
+Hernando Garrido Vargas,20162005364,Monitor,48
+Lionel Isla Zúñiga,20171007705,Asesoría Linux,47
+Pedro Perez Pardo,20131020835,Asesoría Linux,46
+Bayron Pinto Malaver,20112015991,Ayudante,46
+Valentina Caminero Molina,20151015061,Hackathón,47
+Hernando Rubio Parra,20161025468,Monitor,41
+Ana Parra Hernandez,20142007945,Secretario,49
+Jhonathan Garrido Sarri,20142015629,Asesoría Linux,48
+Maria De La Rua Espinel,20181015950,Ayudante,44
+Alejandro Fornals Garrido,20181020223,Alumno Curso GNU,43
+Angela Molina De Ligt,20121015866,Monitor,47
+Federico Isla Dybala,20182025852,Ayudante,44
+Alexa Pitana Espinel,20132005943,Monitor,48
+Andrea Garcia Schmidt,20152025373,Secretario,44
+Lucia MontFerrer Scarpetta,20152015142,Ayudante,50
+German Hernandez Vergara,20142025435,Secretario,46
+Bayron Molina Sarri,20171007587,Monitor,46
+Alejandro MontFerrer Espinel,20171007991,Secretario,45
+Jairo Scarpetta Hernandez,20182007255,Hackathón,42
+Jose Rubio Cardenas,20112020785,Secretario,44
+Ana Pitana Malaver,20171020384,Alumno Curso GNU,47
+Alejandro Vargas Daronco,20152015030,Monitor,43
+Monica Buscalia Molina,20172020002,Ayudante,42
+Juan Parra Nieto,20111020146,Secretario,49
+Gustavo Daronco Vargas,20132025165,Secretario,48
+Cristian Schmidt De Ligt,20121015590,Monitor,48
+Luisa Ortiz Malaver,20142007244,Ayudante,50
+Lucia Perez Vergara,20162020987,Hackathón,44
+Natalie Vargas Rubio,20162007174,Asesoría Linux,42
+Alexa Garces Daronco,20121015120,Ayudante,50
+Natalie Torres Caminero,20121007778,Ayudante,46
+Esmeralda Escudero Vargas,20162025164,Secretario,45
+Jose Pertuz Torres,20121020818,Ayudante,44
+Valentina Rodriguez Sarri,20141015416,Alumno Curso GNU,40
+Hernando Scarpetta Pertuz,20152007955,Hackathón,47
+Alexa Vargas Garrido,20161007917,Monitor,40
+Alfredo Garcia Ortiz,20182015449,Asesoría Linux,47
+Andrea Vergara Cardozo,20162005795,Alumno Curso GNU,42
+Valentina Garces Ortiz,20181020739,Secretario,45
+Mauricio Molina Schmidt,20141020361,Secretario,48
+Luisa Cardenas Espinel,20181015488,Hackathón,49
+Valentina Almonacid Malaver,20181005273,Secretario,45
+Valentina De La Rua Polanco,20112020264,Alumno Curso GNU,42
+Jorge Bolaños Rodriguez,20111015319,Monitor,44
+Hernando Garrido Rodriguez,20111005555,Hackathón,49
+Alfonso Garces Cadena,20112015895,Asesoría Linux,47
+Luisa Caminero Pertuz,20181007199,Monitor,50
+Monica Garcia Molina,20172007729,Hackathón,42
+Ana Benitez Puig,20141025312,Hackathón,50
+Lucia Caminero Caminero,20181020106,Hackathón,44
+Susana Rodriguez Nieto,20132020484,Secretario,44
+Alexa Torres MontFerrer,20111020639,Secretario,41
+Sebastian Fornals Pitana,20132020435,Ayudante,41
+German Daza Thompson,20142005767,Secretario,44
+Bryan De La Rua MontFerrer,20162005553,Ayudante,47
+Susana Thompson Perez,20131005903,Monitor,43
+Ana Nieto Rodriguez,20131015342,Alumno Curso GNU,42
+Alexa Hernandez Vergara,20172015245,Asesoría Linux,44
+Hernando Malaver Perez,20131007185,Monitor,43
+Ana Garrido Scarpetta,20151025877,Alumno Curso GNU,45
+Bryan Espinel Zúñiga,20142007907,Asesoría Linux,42
+Esmeralda Schmidt Scarpetta,20182005606,Alumno Curso GNU,43
+Maria Fornals Garces,20182007429,Asesoría Linux,49
+Valentina Caminero Isla,20131020903,Secretario,45
+Ivanna Scarpetta Cardenas,20171020425,Hackathón,49
+Sebastian Pitana Perez,20112015174,Monitor,48
+Pedro Malaver Sarri,20122020876,Alumno Curso GNU,45
+Lionel Vargas Parra,20181020109,Asesoría Linux,46
+Ximena Hernandez Daza,20122020372,Secretario,47
+Paula Rodriguez Hernandez,20172015625,Asesoría Linux,40
+Priscila Almaguer Torres,20181007507,Monitor,45
+Alexa Ortiz Pinto,20112005991,Hackathón,48
+Luisa Escudero Pardo,20131025101,Alumno Curso GNU,43
+Alfredo Daronco Daronco,20152015236,Asesoría Linux,44
+Sebastian Rojas Almaguer,20122015513,Hackathón,50
+Alexa Daza Pertuz,20112025604,Hackathón,47
+Lucia Polanco Daza,20181025969,Asesoría Linux,49
+Cristian De La Rua De Ligt,20152025491,Asesoría Linux,42
+Angela Caminero Daronco,20171020212,Alumno Curso GNU,49
+Andrea Caminero Zúñiga,20122005522,Monitor,48
+Alexa Almaguer Dybala,20171020918,Asesoría Linux,50
+Angela Rojas Rubio,20151025739,Hackathón,47
+Santiago Pardo Vidal,20161005945,Hackathón,50
+Cristian Molina Bolaños,20151005696,Hackathón,41
+Federico Puig Cardozo,20151015457,Ayudante,48
+Alejandro Torres Cardenas,20161020752,Hackathón,43
+Cristian Cardenas Pitana,20131025701,Monitor,49
+Hernando Thompson Garrido,20171015950,Secretario,48
+Luisa Pitana Puig,20152020634,Asesoría Linux,46
+Angela Caminero Malaver,20182005707,Monitor,40
+Ximena Espinel Almaguer,20161005325,Ayudante,49
+Federico Perez Scarpetta,20141007361,Ayudante,44
+Alexa Schmidt Almonacid,20181015061,Alumno Curso GNU,42
+Sofia Pinto Torres,20171005859,Alumno Curso GNU,45
+Priscila Garcia Balaguera,20181015479,Monitor,47
+Daniel Rubio Malaver,20112005403,Hackathón,40
+Natalie Malaver Almonacid,20162007003,Hackathón,40
+Daniel Almonacid De La Rua,20141020025,Alumno Curso GNU,42
+Jhonathan Sarri Garrido,20122025988,Monitor,41
+Natalie Daza Baquero,20132020225,Hackathón,49
+Sofia Vidal Vidal,20142020696,Asesoría Linux,49
+Cristian Isla Molina,20131005133,Hackathón,43
+Susana Cardozo Pardo,20112020330,Asesoría Linux,46
+Federico Pardo Garrido,20162020352,Ayudante,44
+Paula Almonacid Isla,20111025439,Secretario,40
+Valentina Puig Isla,20122015656,Asesoría Linux,41
+Natalie Espinel Cardozo,20142015178,Monitor,42
+Juan Rubio Rubio,20121005088,Secretario,44
+Andrea Pitana De La Rua,20162015973,Alumno Curso GNU,41
+Cristian Garrido Scarpetta,20131025560,Secretario,43
+Alejandro Vergara Nieto,20162005471,Monitor,46
+Susana Cadena Garces,20132020210,Ayudante,48
+Veronica Schmidt Isla,20162005456,Secretario,44
+Luisa Pitana Cadena,20112020377,Secretario,40
+Luisa Parra Garrido,20132025694,Monitor,45
+Susana Garces MontFerrer,20171015788,Hackathón,49
+German Almaguer Thompson,20111005292,Asesoría Linux,45
+Fernando Parra De Ligt,20162020348,Secretario,41
+Maria Malaver Malaver,20111005723,Monitor,46
+Andrea Scarpetta Schmidt,20181015460,Monitor,47
+Pedro Almaguer Garrido,20141015177,Asesoría Linux,43
+Angela Isla Cardenas,20121015707,Alumno Curso GNU,45
+Esmeralda Garcia Rubio,20111025692,Ayudante,47
+Ivanna Espinel Buscalia,20132015083,Asesoría Linux,47
+Jhonathan Fornals Dybala,20171025075,Secretario,49
+Cristian Puig Bolaños,20111025586,Monitor,48
+Susana Dybala Garcia,20151007746,Hackathón,50
+Cristian Parra Pertuz,20132015701,Secretario,50
+David Almonacid Espinel,20121005742,Monitor,48
+Alejandro Malaver Isla,20111015522,Hackathón,49
+Hernando Polanco Pitana,20112025570,Secretario,44
+Federico Thompson Pitana,20171007011,Ayudante,47
+Andrea Garrido Cardenas,20142005258,Alumno Curso GNU,43
+Priscila Garcia Bolaños,20172015298,Asesoría Linux,45
+Andrea Isla Escudero,20131007950,Hackathón,45
+Susana Ortiz Isla,20112015695,Hackathón,49
+Ivanna MontFerrer Malaver,20122015414,Hackathón,41
+Luis Almaguer Pinto,20162015105,Ayudante,49
+Cristian Nieto Daronco,20142007426,Ayudante,48
+Catalina Hernandez Molina,20181005763,Alumno Curso GNU,44
+Catalina Isla Almonacid,20131007976,Ayudante,47
+Andrea Garrido Rojas,20152005232,Alumno Curso GNU,42
+Alfonso Pinto Balaguera,20151025004,Monitor,44
+Sofia Almaguer Almaguer,20152005167,Ayudante,47
+Lionel Pitana Scarpetta,20182025481,Ayudante,48
+Catalina Buscalia Pardo,20182005477,Alumno Curso GNU,45
+Bryan Scarpetta Pertuz,20151005836,Alumno Curso GNU,42
+Juan Daza De Ligt,20112020507,Monitor,45
+Lionel De La Rua Scarpetta,20172015008,Hackathón,42
+Sebastian Dybala Ortiz,20181020249,Secretario,46
+Angela Baquero Rubio,20151020713,Monitor,45
+Jose Garcia Molina,20171005400,Asesoría Linux,48
+Alfredo Pertuz Vidal,20162007679,Asesoría Linux,50
+Paula Garces Puig,20152020801,Hackathón,49
+Natalie Garces Rodriguez,20132025369,Asesoría Linux,46
+Jhonathan Pardo Daronco,20142005354,Asesoría Linux,47
+Ivanna Buscalia Scarpetta,20142020526,Hackathón,45
+Sebastian Benitez Buscalia,20131025562,Hackathón,42
+Federico Pertuz Vidal,20141025725,Ayudante,48
+Natalie Schmidt Espinel,20142025352,Ayudante,49
+Federico De Ligt Vidal,20162007772,Secretario,40
+Sebastian Zúñiga Rubio,20152015332,Asesoría Linux,40
+Maria Dybala Sarri,20151007034,Asesoría Linux,41
+Luis Thompson De La Rua,20182007916,Hackathón,41
+Paula Torres Thompson,20171025968,Secretario,41
+Veronica Daza Schmidt,20172005009,Alumno Curso GNU,42
+Valentina Rubio Rodriguez,20162025051,Alumno Curso GNU,48
+Valentina MontFerrer Vidal,20132007135,Monitor,42
+Angela Dybala Vidal,20122007632,Hackathón,43
+Angela Fornals Garrido,20162015707,Hackathón,42
+Gustavo Malaver Dybala,20171020956,Hackathón,46
+Jose Garrido Nieto,20131007410,Hackathón,49
+Alfonso De Ligt Nieto,20131020421,Ayudante,44
+Sofia Daronco Daronco,20121005935,Secretario,43
+David Rubio Malaver,20162007567,Monitor,40
+Priscila Parra Garces,20152025402,Monitor,46
+Juan Thompson De Ligt,20132025379,Hackathón,49
+Mauricio De La Rua Thompson,20122020918,Secretario,42
+Angela Torres Caminero,20111025338,Hackathón,40
+Angela Fornals Daronco,20112007535,Alumno Curso GNU,41
+Fernando Hernandez Malaver,20141007971,Ayudante,43
+Andrea Zúñiga Zúñiga,20132005366,Asesoría Linux,41
+Cristian Parra Cardozo,20151025983,Ayudante,48
+Juan Rubio Schmidt,20171015219,Hackathón,42
+Natalie Almonacid Nieto,20172020769,Alumno Curso GNU,46
+Paula Vargas Buscalia,20172015630,Monitor,47
+Jose Rojas De La Rua,20182005435,Alumno Curso GNU,48
+Priscila Benitez Polanco,20182005975,Alumno Curso GNU,41
+Bayron Cadena De Ligt,20122025105,Asesoría Linux,41
+Paula Dybala Thompson,20171015835,Hackathón,46
+Gustavo Garcia Perez,20112007557,Secretario,42
+Sebastian Garrido Isla,20122007541,Hackathón,47
+Monica Parra Nieto,20181007728,Monitor,45
+Federico Cardozo Dybala,20121015030,Secretario,47
+Maria Fornals Buscalia,20172025539,Monitor,47
+Angela Balaguera De Ligt,20141020378,Ayudante,49
+Catalina MontFerrer Puig,20152025377,Alumno Curso GNU,41
+Mauricio Balaguera Polanco,20182015469,Secretario,48
+Valentina Baquero MontFerrer,20112007940,Ayudante,46
+Sofia Dybala De La Rua,20161020138,Ayudante,42
+Esmeralda Pinto Parra,20151015672,Monitor,47
+Jose Almaguer Daronco,20172025126,Hackathón,46
+Jose Cardozo Schmidt,20152020115,Ayudante,46
+Pedro Puig Rojas,20161007856,Asesoría Linux,43
+Luisa Espinel Vargas,20121020461,Alumno Curso GNU,45
+Angela Caminero De La Rua,20172007323,Alumno Curso GNU,47
+Jose Puig Almonacid,20152007956,Hackathón,46
+Luisa Balaguera Polanco,20131007929,Ayudante,47
+Lucia Hernandez Rubio,20142007817,Asesoría Linux,48
+Mauricio Torres Rodriguez,20162020211,Secretario,45
+Natalie Fornals Caminero,20112020101,Secretario,49
+Jose Balaguera Perez,20132025760,Alumno Curso GNU,41
+Natalie Garcia Daza,20182007329,Secretario,46
+Priscila Pitana Perez,20131005874,Alumno Curso GNU,43
+Alfredo Zúñiga Perez,20131025899,Alumno Curso GNU,49
+German Garces Nieto,20141005971,Alumno Curso GNU,48
+Daniel Fornals Pinto,20131007468,Secretario,48
+Alfredo De La Rua Pardo,20161025497,Hackathón,41
+Fernando Nieto Rodriguez,20182005610,Monitor,50
+Alexa Rojas Benitez,20171005914,Alumno Curso GNU,45
+Jhonathan Nieto Almonacid,20112025188,Asesoría Linux,43
+Jorge Dybala Baquero,20172007599,Hackathón,45
+Federico De Ligt Daronco,20121005050,Hackathón,48
+Fernando Pertuz Garces,20151007704,Secretario,48
+Luisa Malaver Malaver,20152005175,Hackathón,40
+Ximena Isla Parra,20172005237,Secretario,47
+Lucia Garces Polanco,20112015236,Secretario,50
+Daniel Garrido Cardenas,20151025980,Monitor,45
+Natalie Garcia Almaguer,20171020472,Ayudante,42
+Angela De Ligt Cadena,20141025986,Monitor,47
+Hernando Vidal Molina,20141025594,Ayudante,50
+Esmeralda Escudero Daronco,20161007361,Asesoría Linux,47
+Monica Vargas Schmidt,20132015109,Alumno Curso GNU,49
+Angela Nieto Molina,20131015803,Hackathón,44
+Bryan Nieto Almaguer,20171025101,Ayudante,40
+Daniel Ortiz Daza,20171005683,Asesoría Linux,42
+Valentina Parra De Ligt,20182015034,Secretario,40
+Sofia Pinto Bolaños,20132005778,Hackathón,48
+Fernando Thompson Scarpetta,20111025959,Ayudante,45
+Lucia Perez Fornals,20141020015,Secretario,47
+Alfredo Molina Baquero,20152020465,Monitor,41
+Santiago Nieto Dybala,20161015991,Monitor,50
+Maria Rojas Vargas,20111025212,Secretario,48
+Catalina Garces Almaguer,20122025917,Alumno Curso GNU,49
+Angela Isla Sarri,20132025193,Hackathón,46
+Paula Almonacid Almaguer,20161015226,Alumno Curso GNU,49
+Andrea Vargas Baquero,20141007230,Asesoría Linux,50
+Daniel Polanco Caminero,20152005239,Monitor,50
+Susana Almaguer Vergara,20161020514,Ayudante,43
+Natalie Balaguera Escudero,20162005871,Asesoría Linux,43
+Sebastian Parra Zúñiga,20162015489,Alumno Curso GNU,42
+David Garrido Buscalia,20132015677,Monitor,40
+Monica Bolaños Garcia,20142005096,Monitor,45
+Pedro Molina Buscalia,20161005380,Monitor,50
+Andrea Ortiz Isla,20121005971,Asesoría Linux,45
+David Pertuz Espinel,20151005322,Monitor,48
+Lucia Scarpetta Bolaños,20172020084,Alumno Curso GNU,49
+Juan Thompson Ortiz,20131015075,Secretario,47
+Sebastian Pitana Daronco,20122020194,Asesoría Linux,48
+Alfonso Thompson Espinel,20152005320,Monitor,49
+Jose Garces Balaguera,20161007769,Hackathón,50
+Jairo Thompson Baquero,20151020883,Asesoría Linux,44
+Angela Pardo Benitez,20111015852,Asesoría Linux,44
+Daniel Vidal De La Rua,20171007918,Asesoría Linux,46
+Maria Almaguer Almonacid,20131025631,Asesoría Linux,42
+Daniel Torres Scarpetta,20182025557,Asesoría Linux,45
+Hernando Garrido Pardo,20172020963,Monitor,43
+Monica Polanco Benitez,20112005836,Asesoría Linux,48
+Susana Buscalia Pardo,20152025059,Hackathón,46
+Monica Daza Benitez,20141005447,Monitor,48
+Angela Rubio Almaguer,20132007228,Monitor,41
+Angela Vargas Garrido,20132015078,Ayudante,45
+German Nieto Rojas,20172015161,Secretario,49
+Ivanna Balaguera Ortiz,20181020327,Ayudante,46
+Veronica Daza Caminero,20162020502,Asesoría Linux,49
+Veronica Garcia Parra,20152007823,Secretario,40
+German Pinto Pitana,20121005631,Monitor,44
+Susana De Ligt Rubio,20161020512,Hackathón,41
+Esmeralda Parra Bolaños,20172007265,Monitor,43
+Pedro Malaver Garcia,20161007926,Hackathón,48
+Gustavo Rubio Hernandez,20151005585,Secretario,42
+Fernando Benitez Rojas,20182007343,Alumno Curso GNU,44
+Jairo Escudero De La Rua,20152005328,Secretario,49
+Angela Pertuz Pertuz,20172015141,Asesoría Linux,41
+Jorge Puig Torres,20122020261,Monitor,42
+Lionel Garrido De Ligt,20132020335,Secretario,46
+Catalina Vargas Almaguer,20141025095,Hackathón,49
+Santiago Parra Nieto,20122015942,Secretario,50
+Mauricio Vargas Caminero,20111020089,Monitor,44
+Daniel Escudero Fornals,20181020830,Alumno Curso GNU,40
+Angela Vargas Fornals,20162007107,Secretario,46
+Veronica Cardozo Almonacid,20161005656,Secretario,45
+Ximena Balaguera Rojas,20121020050,Monitor,47
+Pedro Torres Espinel,20141005014,Ayudante,45
+Paula Polanco Parra,20171020963,Asesoría Linux,44
+Fernando Molina Rodriguez,20162025849,Hackathón,46
+Ximena Fornals Garcia,20132015443,Secretario,46
+Lucia Isla Sarri,20141020337,Alumno Curso GNU,50
+Jose Pinto Rubio,20182015801,Asesoría Linux,45
+Veronica Zúñiga Cardenas,20172007902,Secretario,42
+Santiago Vergara Almaguer,20131005347,Hackathón,40
+Natalie Pertuz Polanco,20122005030,Asesoría Linux,49
+Maria De Ligt Hernandez,20161007334,Alumno Curso GNU,45
+Catalina Escudero Buscalia,20121007135,Asesoría Linux,43
+Monica Almaguer Benitez,20111015845,Asesoría Linux,42
+Luisa Fornals Fornals,20161015602,Ayudante,46
+Lionel Perez Vergara,20142020619,Secretario,40
+Daniel Cardenas Vidal,20142005126,Secretario,46
+Alexa Pitana Pitana,20162025551,Monitor,40
+Jose Scarpetta MontFerrer,20152007115,Asesoría Linux,47
+Federico Almaguer Escudero,20182025040,Monitor,47
+Cristian Pitana Pinto,20111015156,Alumno Curso GNU,41
+Andrea Rodriguez Pardo,20112005527,Secretario,42
+Alejandro Vidal Thompson,20112025468,Secretario,49
+Alfredo Bolaños De La Rua,20141005194,Hackathón,42
+Natalie Cardenas Parra,20141007807,Asesoría Linux,49
+German Rubio Cardozo,20182020219,Alumno Curso GNU,45
+Jose Perez Zúñiga,20181007437,Asesoría Linux,48
+Monica Caminero Balaguera,20181015083,Hackathón,50
+Jorge Vargas Daronco,20182005196,Monitor,46
+Federico Torres Garces,20112020480,Secretario,40
+Daniel Cardozo Bolaños,20161015114,Alumno Curso GNU,43
+Lucia Scarpetta Parra,20112025594,Hackathón,50
+Pedro Buscalia Nieto,20122005698,Hackathón,43
+Hernando Espinel Espinel,20151025625,Asesoría Linux,42
+Catalina Vargas Rodriguez,20152007506,Secretario,50
+Susana Garces Vargas,20172025419,Monitor,42
+Hernando De La Rua Vidal,20111005141,Secretario,45
+Ivanna Nieto Fornals,20112015535,Ayudante,48
+Santiago Parra Rodriguez,20142007469,Monitor,50
+Ivanna Malaver MontFerrer,20152025336,Ayudante,49
+Valentina Ortiz Bolaños,20131020790,Alumno Curso GNU,49
+Paula Isla Almonacid,20182015389,Asesoría Linux,49
+Cristian Balaguera Rojas,20162005490,Asesoría Linux,45
+Federico De La Rua Daronco,20151020424,Monitor,50
+Federico De Ligt Vidal,20181015381,Hackathón,43
+Bayron Rodriguez Rodriguez,20122025011,Secretario,47
+German Daronco Malaver,20161015140,Alumno Curso GNU,44
+Priscila Parra Vidal,20122020720,Monitor,42
+Pedro Puig Polanco,20121020656,Hackathón,41
+Ana Isla Cadena,20131020495,Asesoría Linux,47
+Angela Almaguer Garrido,20181020925,Asesoría Linux,49
+Sebastian Zúñiga Zúñiga,20142007030,Ayudante,45
+Sofia Dybala Puig,20112025265,Alumno Curso GNU,50
+Bayron Garrido Rojas,20181020055,Secretario,41
+Catalina Almaguer Isla,20162007421,Ayudante,40
+Maria Schmidt Balaguera,20151020309,Alumno Curso GNU,45
+Luisa Balaguera Zúñiga,20132025445,Secretario,50
+Priscila Balaguera Rubio,20161005009,Ayudante,44
+Alejandro De La Rua Cadena,20181020148,Alumno Curso GNU,49
+Sofia Benitez Benitez,20171025910,Asesoría Linux,46
+Esmeralda Isla Vidal,20181015778,Secretario,43
+Sofia Baquero Vidal,20161015859,Secretario,46
+Catalina Almaguer Cardozo,20132007110,Hackathón,42
+Paula MontFerrer Scarpetta,20142015444,Monitor,41
+Veronica Schmidt Pitana,20112015207,Secretario,41
+Gustavo Espinel Espinel,20171007782,Alumno Curso GNU,40
+Cristian Benitez Sarri,20172005289,Secretario,40
+Daniel Daza Dybala,20152025443,Alumno Curso GNU,50
+Ana Vargas Sarri,20171025109,Alumno Curso GNU,42
+Luis Almaguer Rubio,20162007982,Secretario,44
+Veronica Malaver De La Rua,20141005322,Monitor,45
+Hernando Scarpetta Balaguera,20152020899,Secretario,50
+Bryan Rojas Fornals,20121020959,Alumno Curso GNU,40
+Lucia Vergara De Ligt,20131005177,Monitor,48
+Valentina Almaguer Cardozo,20161025729,Monitor,47
+Andrea Daza Pertuz,20162025379,Ayudante,43
+Susana Vergara Pertuz,20172020776,Ayudante,49
+Susana Garcia Perez,20182007911,Secretario,44
+Mauricio Daza Daronco,20121025179,Ayudante,40
+Bryan Buscalia Thompson,20111005079,Hackathón,44
+Paula Pertuz Garces,20121015664,Hackathón,47
+Andrea Puig Bolaños,20152025711,Alumno Curso GNU,40
+Lionel Cadena Puig,20161020410,Monitor,40
+Monica Rubio Bolaños,20171025188,Secretario,40
+Paula Nieto Cadena,20111025260,Hackathón,40
+Daniel Daza Scarpetta,20122007512,Hackathón,44
+Catalina Scarpetta Daza,20152020651,Hackathón,46
+Susana Ortiz Cardozo,20122015906,Alumno Curso GNU,42
+Ivanna Garces Rubio,20151025342,Hackathón,50
+Juan Cardozo De Ligt,20121015717,Ayudante,44
+Esmeralda Malaver Zúñiga,20172025237,Monitor,47
+Pedro Caminero Rubio,20141015119,Secretario,46
+Susana Malaver Almaguer,20132025381,Alumno Curso GNU,49
+Andrea Nieto Torres,20122015281,Asesoría Linux,48
+Veronica Malaver Schmidt,20111020608,Ayudante,40
+Monica Sarri Cadena,20122020602,Hackathón,47
+Priscila De La Rua Buscalia,20151007550,Asesoría Linux,41
+Monica Zúñiga Vargas,20172015286,Monitor,40
+Santiago Daza Pitana,20122025276,Alumno Curso GNU,45
+Alfonso Benitez Daronco,20151020647,Alumno Curso GNU,45
+Ivanna Malaver Almaguer,20172005587,Alumno Curso GNU,49
+Daniel Pardo Zúñiga,20121015628,Hackathón,49
+Ximena Zúñiga Nieto,20132005704,Asesoría Linux,50
+Esmeralda Bolaños Vidal,20111007515,Hackathón,42
+Ivanna Garrido Pertuz,20162025874,Monitor,41
+Juan Nieto Pinto,20171005546,Asesoría Linux,47
+Catalina Polanco Balaguera,20122020202,Ayudante,41
+Lucia Rubio Hernandez,20131025069,Hackathón,43
+Paula Almaguer Baquero,20171020212,Monitor,50
+Jorge Molina Zúñiga,20151015269,Monitor,43
+Luis Garrido Almaguer,20161007740,Ayudante,46
+Jairo Molina Garcia,20141020717,Hackathón,44
+Angela Daronco Rubio,20182005129,Hackathón,42
+Angela Benitez Buscalia,20171020094,Asesoría Linux,41
+Lionel Cardozo Cardenas,20182025555,Ayudante,40
+Luis Daronco Daronco,20162020968,Hackathón,50
+Mauricio Vargas Benitez,20112007094,Monitor,44
+Natalie Rodriguez Cardenas,20172025879,Monitor,43
+Angela Daronco Scarpetta,20112007145,Secretario,40
+Sebastian Schmidt Pinto,20171005019,Ayudante,49
+Catalina Sarri Rodriguez,20122005862,Ayudante,49
+Alejandro Malaver Fornals,20171015114,Alumno Curso GNU,49
+Paula Pitana Scarpetta,20111015334,Alumno Curso GNU,40
+Andrea Polanco Vidal,20142015904,Ayudante,44
+Bryan Buscalia Cardozo,20171005281,Asesoría Linux,48
+Alejandro Cardozo Rubio,20122020605,Monitor,42
+Daniel Daza Puig,20131007240,Secretario,50
+Priscila Polanco Balaguera,20112007918,Monitor,46
+Hernando Rubio Daronco,20122015063,Ayudante,43
+Sofia Vargas De La Rua,20121015796,Hackathón,49
+Andrea Perez Benitez,20171025262,Ayudante,41
+Luis Vidal Parra,20162007253,Secretario,50
+Esmeralda Benitez Cardenas,20161025543,Alumno Curso GNU,42
+Angela Rodriguez Ortiz,20172015288,Monitor,40
+Natalie Schmidt Cadena,20161025081,Ayudante,49
+Paula Molina Sarri,20131020588,Monitor,42
+Veronica Garcia Rodriguez,20162015873,Hackathón,50
+Juan Rojas Pertuz,20181020738,Alumno Curso GNU,48
+Alexa Sarri Baquero,20121020517,Monitor,44
+Esmeralda Pinto Garcia,20181005525,Hackathón,49
+Santiago Pinto Daza,20131007141,Asesoría Linux,42
+Lionel Almaguer Pinto,20141015840,Secretario,41
+Maria Daza Cadena,20132015088,Alumno Curso GNU,46
+Hernando Benitez Puig,20171015469,Monitor,46
+Monica MontFerrer Espinel,20162007443,Ayudante,47
+Lucia Espinel Balaguera,20131015543,Ayudante,46
+David Balaguera Almaguer,20132005091,Ayudante,45
+Pedro Isla MontFerrer,20132007101,Ayudante,45
+Jairo Almonacid Polanco,20172005371,Secretario,43
+Cristian Escudero Daza,20121007466,Ayudante,44
+Ivanna Rubio Sarri,20181007336,Asesoría Linux,46
+Andrea Sarri Zúñiga,20141007697,Secretario,46
+Luisa Zúñiga Isla,20121015156,Alumno Curso GNU,40
+Alexa Perez Benitez,20142020263,Ayudante,45
+Pedro Hernandez Perez,20122005762,Hackathón,48
+Daniel Baquero De Ligt,20172020406,Hackathón,41
+Ivanna Parra Buscalia,20121020328,Alumno Curso GNU,50
+Federico MontFerrer Cadena,20111025642,Alumno Curso GNU,44
+Andrea Molina Molina,20171005030,Asesoría Linux,44
+Valentina Benitez Dybala,20171007035,Asesoría Linux,50
+Esmeralda Daza Espinel,20131020322,Monitor,43
+Catalina Vidal Rojas,20141007279,Monitor,43
+Alfonso Isla Scarpetta,20181025126,Hackathón,46
+Federico Torres Daza,20132015653,Ayudante,49
+Cristian Polanco Molina,20122025026,Asesoría Linux,40
+Natalie Pitana Daza,20172020876,Monitor,47
+Daniel Balaguera Almaguer,20182015623,Ayudante,42
+Federico Garcia Nieto,20172020969,Alumno Curso GNU,45
+Angela Fornals Polanco,20151025944,Monitor,40
+Monica Dybala Parra,20122025061,Hackathón,49
+Angela Fornals Baquero,20121020870,Asesoría Linux,43
+Maria Scarpetta Daza,20171020809,Ayudante,40
+Ximena Sarri Balaguera,20152025769,Secretario,48
+Luisa Escudero Daronco,20152015629,Monitor,46
+Alfredo Pinto Perez,20152025155,Asesoría Linux,44
+Sebastian Torres Thompson,20182020677,Alumno Curso GNU,42
+Daniel Hernandez Pinto,20171020195,Secretario,43
+Jose Perez Vidal,20131020324,Asesoría Linux,40
+Lionel Caminero Balaguera,20122007822,Alumno Curso GNU,45
+Luisa Cadena Ortiz,20162005256,Ayudante,40
+Alejandro Parra Pinto,20142020147,Hackathón,40
+Jose Cardozo Benitez,20111005055,Asesoría Linux,48
+Federico Cardenas Rodriguez,20132007210,Hackathón,44
+Veronica Baquero Balaguera,20111015961,Asesoría Linux,50
+Valentina Scarpetta Vidal,20161007047,Asesoría Linux,45
+Bayron Isla Almonacid,20132015155,Secretario,50
+Ana Balaguera Perez,20112005711,Ayudante,42
+Santiago Garcia Pitana,20122025753,Asesoría Linux,44
+German Espinel Fornals,20182020940,Monitor,42
+German Sarri De Ligt,20112015108,Asesoría Linux,50
+Juan Rodriguez Escudero,20112005967,Asesoría Linux,40
+Lucia Pitana Daronco,20161007040,Hackathón,42
+Mauricio Daronco Garces,20121025223,Alumno Curso GNU,44
+Sebastian Schmidt Pardo,20121020422,Alumno Curso GNU,50
+Alejandro Rojas Bolaños,20181015095,Hackathón,45
+Lucia Buscalia Daronco,20111020376,Ayudante,40
+Alfredo Vidal Escudero,20182025137,Monitor,50
+Juan Cadena Nieto,20171020582,Ayudante,48
+Lucia Garrido Puig,20171005990,Secretario,46
+Federico Vergara Garcia,20141007784,Secretario,44
+Juan Daronco Nieto,20161020288,Ayudante,45
+Paula Pitana Bolaños,20181007860,Hackathón,47
+Cristian Vidal Ortiz,20171005571,Hackathón,42
+Alexa Garcia Balaguera,20122005566,Monitor,45
+Lionel Vidal Perez,20152005643,Alumno Curso GNU,44
+Priscila Ortiz De Ligt,20142005738,Alumno Curso GNU,47
+Catalina Pitana Torres,20141025691,Monitor,41
+Alexa Pinto Rubio,20122020797,Alumno Curso GNU,44
+Alejandro Zúñiga Scarpetta,20121007956,Secretario,42
+Catalina Vergara Rodriguez,20131015191,Monitor,41
+Monica Almonacid Rodriguez,20121015700,Asesoría Linux,45
+Jose Polanco Rodriguez,20141005134,Alumno Curso GNU,50
+Lionel Bolaños Garces,20162005868,Secretario,40
+Jairo Almaguer Vergara,20161015798,Asesoría Linux,44
+German Malaver Garces,20132005181,Alumno Curso GNU,48
+Angela Scarpetta Rodriguez,20132005385,Hackathón,47
+German Garces Bolaños,20172020435,Ayudante,43
+Alfredo Hernandez Daza,20131020574,Secretario,41
+Hernando Espinel Dybala,20141005887,Alumno Curso GNU,43
+Fernando Pitana Rojas,20132025528,Secretario,45
+Priscila Schmidt Schmidt,20131025386,Secretario,41
+Natalie Ortiz Almaguer,20122015535,Asesoría Linux,45
+Andrea Molina Benitez,20151015644,Ayudante,49
+German Balaguera Espinel,20151015163,Hackathón,47
+Angela Fornals Espinel,20142005856,Ayudante,49
+Ximena Polanco Garces,20131025167,Monitor,42
+Alexa Almaguer Cardenas,20162015636,Monitor,46
+Paula Daronco Scarpetta,20112025255,Secretario,44
+Mauricio Daronco Nieto,20161025659,Alumno Curso GNU,44
+Sofia Ortiz Rubio,20141025291,Asesoría Linux,42
+Bryan Pinto Schmidt,20162007268,Secretario,44
+Sofia Ortiz Fornals,20181015796,Alumno Curso GNU,44
+David Schmidt Baquero,20131020631,Alumno Curso GNU,41
+Esmeralda Pinto Vergara,20142005938,Monitor,41
+Catalina Molina Rojas,20121007499,Asesoría Linux,45
+Ximena Caminero Buscalia,20132005994,Secretario,50
+Cristian Escudero Almonacid,20121005719,Hackathón,42
+Bayron Daronco Torres,20142007744,Asesoría Linux,48
+Jhonathan Fornals Scarpetta,20182007153,Asesoría Linux,42
+Ivanna Pitana Puig,20152015212,Asesoría Linux,48
+Lionel Buscalia Garces,20181015027,Ayudante,44
+Paula Torres Cardozo,20152020560,Monitor,50
+Cristian Almaguer Benitez,20172025767,Asesoría Linux,44
+Lucia Caminero MontFerrer,20171025565,Ayudante,47
+Juan Garrido Vidal,20112025292,Hackathón,41
+Monica Dybala Malaver,20171005923,Alumno Curso GNU,48
+Pedro Garces Daza,20141005811,Alumno Curso GNU,46
+Esmeralda Daza Molina,20111020349,Hackathón,50
+Catalina Garrido Hernandez,20181020021,Alumno Curso GNU,44
+Jorge Baquero Garces,20152025587,Secretario,44
+Veronica Puig Molina,20152025350,Asesoría Linux,46
+Luisa Caminero Polanco,20111020095,Alumno Curso GNU,48
+Alfredo Zúñiga Puig,20132020917,Asesoría Linux,42
+Susana Isla Garcia,20142025174,Ayudante,41
+Mauricio Sarri Cadena,20182020941,Hackathón,40
+Jhonathan Buscalia Vergara,20181005946,Asesoría Linux,48
+Maria Rubio MontFerrer,20142025478,Asesoría Linux,44
+Daniel Espinel Fornals,20172025505,Asesoría Linux,40
+David Polanco Daronco,20181007275,Ayudante,48
+Jorge Thompson Rubio,20172005260,Alumno Curso GNU,43
+Daniel Pardo Daza,20181025139,Monitor,43
+Alfredo Caminero Vidal,20181015735,Monitor,41
+Jorge Vidal Vergara,20181015790,Monitor,42
+Jhonathan Parra Rodriguez,20161007871,Alumno Curso GNU,50
+Fernando Puig Pinto,20122007071,Ayudante,42
+Ivanna Pinto Almaguer,20121020056,Secretario,42
+Maria Balaguera Almaguer,20161025854,Ayudante,43
+Ximena Puig Daza,20112020798,Secretario,45
+Alfredo MontFerrer Isla,20181007982,Secretario,41
+Monica Espinel Schmidt,20161025943,Hackathón,49
+Cristian Escudero Torres,20122005746,Asesoría Linux,49
+Santiago Pinto Isla,20171025591,Monitor,41
+Jhonathan Garcia Garces,20152015088,Secretario,49
+Jorge Isla Dybala,20161015982,Ayudante,43
+Federico Garrido Balaguera,20162025080,Secretario,50
+Bayron Bolaños Scarpetta,20122020314,Alumno Curso GNU,50
+Jorge Ortiz Pardo,20122015111,Alumno Curso GNU,47
+Alfredo Pitana Almaguer,20162005647,Monitor,41
+Alejandro Fornals Cardozo,20182015292,Ayudante,45
+Ivanna Rojas Perez,20152025901,Asesoría Linux,50
+Ivanna Espinel Pertuz,20142025782,Hackathón,48
+German Daronco Almaguer,20161005022,Alumno Curso GNU,46
+Angela Cardenas Rubio,20181025639,Ayudante,46
+Lionel Garcia Daronco,20141005622,Hackathón,46
+Maria Vidal Hernandez,20131005796,Ayudante,47
+Susana Perez Cadena,20111007203,Monitor,47
+Alexa Ortiz Escudero,20112015065,Monitor,43
+Gustavo Thompson Daza,20172005185,Alumno Curso GNU,50
+Jhonathan Benitez Caminero,20122025920,Hackathón,43
+Alejandro Pardo Vargas,20182005838,Hackathón,50
+David Balaguera Thompson,20131007852,Monitor,43
+Juan Zúñiga Buscalia,20122007873,Monitor,44
+Ivanna Puig Torres,20141015027,Hackathón,45
+Maria MontFerrer Vidal,20182007466,Alumno Curso GNU,48
+Angela Vargas Escudero,20121025316,Secretario,50
+Luisa Torres Fornals,20162007576,Hackathón,47
+Angela Scarpetta Garrido,20131025853,Hackathón,45
+Pedro Balaguera Dybala,20141005426,Ayudante,45
+Bryan Perez Zúñiga,20151005924,Secretario,42
+Mauricio Perez Nieto,20172005360,Asesoría Linux,48
+Sofia Baquero Benitez,20182025603,Asesoría Linux,49
+Alejandro Daronco Schmidt,20142015048,Monitor,44
+Alfonso Scarpetta Rojas,20112025955,Secretario,42
+Alfonso Vargas Buscalia,20172015008,Monitor,48
+Ximena Nieto Zúñiga,20141020973,Hackathón,46
+Ana Polanco Polanco,20141005084,Hackathón,41
+Valentina Torres Balaguera,20132020768,Hackathón,47
+Jorge Vergara Cardozo,20172025739,Ayudante,50
+Jose Bolaños Cardenas,20131020202,Hackathón,43
+Alfredo Torres Garcia,20181007839,Hackathón,43
+Alfredo Pertuz Isla,20112025234,Ayudante,45
+Luisa Parra Nieto,20162020110,Monitor,44
+Hernando Daza Daronco,20162005688,Ayudante,47
+Ana Schmidt Scarpetta,20151005987,Monitor,48
+Jairo Cardozo MontFerrer,20121025043,Hackathón,45
+Santiago MontFerrer Balaguera,20111005468,Ayudante,42
+Alexa Garrido Sarri,20182015394,Secretario,43
+Jairo Vergara Vergara,20141005023,Secretario,42
+Santiago Pardo Cardenas,20121007412,Monitor,43
+Daniel Daza Torres,20131005819,Alumno Curso GNU,49
+Maria Rubio Garces,20161015689,Secretario,41
+Angela Dybala Vargas,20171020222,Ayudante,41
+Lucia Almonacid De La Rua,20142015340,Ayudante,40
+Bryan Sarri Fornals,20141015522,Ayudante,48
+Priscila Nieto Malaver,20122005464,Alumno Curso GNU,46
+Catalina Cadena Malaver,20121015502,Secretario,41
+Susana Bolaños Parra,20142025727,Hackathón,43
+Paula Garcia Hernandez,20182007977,Monitor,44
+Luis Bolaños Daronco,20181015326,Ayudante,44
+Esmeralda Garces Cadena,20172020566,Ayudante,46
+Paula Rojas Caminero,20162015749,Alumno Curso GNU,50
+Bayron Hernandez Escudero,20132015307,Hackathón,41
+Catalina Cadena Parra,20162007815,Ayudante,49
+Bayron Benitez Puig,20132005311,Alumno Curso GNU,48
+Ximena Cardozo Bolaños,20172020924,Ayudante,49
+Sebastian Thompson Pardo,20131020350,Secretario,50
+Maria Sarri Escudero,20152015412,Hackathón,43
+David De Ligt Pinto,20182007613,Ayudante,47
+Gustavo Puig Pitana,20132007157,Alumno Curso GNU,48
+Priscila Isla Sarri,20132020744,Monitor,40
+Alexa De La Rua Rubio,20142020695,Alumno Curso GNU,49
+Ivanna Garrido Rodriguez,20142020178,Monitor,50
+Mauricio Almaguer Malaver,20182020287,Ayudante,47
+Paula Sarri De Ligt,20151020185,Alumno Curso GNU,42
+Mauricio Malaver Malaver,20112005330,Ayudante,45
+Luisa Parra Molina,20131020916,Monitor,46
+Susana Bolaños Nieto,20131015637,Secretario,46
+Pedro Baquero Bolaños,20141005133,Asesoría Linux,42
+Valentina Balaguera De Ligt,20112007040,Hackathón,44
+German Bolaños Garcia,20172020967,Secretario,45
+Mauricio Isla Torres,20122005514,Monitor,41
+Susana Buscalia Vergara,20132020057,Ayudante,44
+Alfredo De La Rua Caminero,20122005339,Monitor,50
+Natalie Espinel Hernandez,20141007914,Asesoría Linux,49
+Ivanna Molina Vergara,20151020890,Asesoría Linux,44
+David Polanco Daronco,20181005341,Ayudante,40
+Ximena Isla Ortiz,20131005583,Hackathón,47
+Federico Hernandez De La Rua,20121015286,Alumno Curso GNU,47
+Bryan Buscalia Polanco,20162015623,Ayudante,45
+Maria Polanco Almaguer,20111007786,Hackathón,40
+Maria Pinto Polanco,20131020919,Alumno Curso GNU,45
+Monica Vergara Fornals,20161025900,Alumno Curso GNU,41
+Andrea Rojas Pinto,20131015375,Alumno Curso GNU,47
+Mauricio Dybala Parra,20161015871,Alumno Curso GNU,44
+Alexa Espinel Pardo,20162015457,Monitor,49
+Angela Caminero Pertuz,20111020764,Secretario,40
+Alejandro De Ligt Almonacid,20122025044,Ayudante,48
+Ana Malaver Caminero,20162005615,Monitor,41
+Ana Rubio De Ligt,20121025201,Monitor,40
+Natalie MontFerrer De La Rua,20161015793,Alumno Curso GNU,45
+Esmeralda Vargas Pinto,20112007462,Alumno Curso GNU,42
+Hernando Schmidt Garcia,20131007607,Asesoría Linux,47
+Susana Rojas Dybala,20152005185,Monitor,50
+Luisa Perez Torres,20142007616,Ayudante,41
+Alexa De La Rua Caminero,20141007129,Alumno Curso GNU,41
+Jorge Almonacid Parra,20171007861,Ayudante,40
+Ivanna Daza Fornals,20162005718,Hackathón,46
+David Vidal Garces,20171015007,Secretario,46
+Luisa Zúñiga Ortiz,20181005080,Hackathón,47
+Esmeralda Baquero Scarpetta,20121007377,Alumno Curso GNU,46
+Natalie Hernandez Vergara,20121007572,Ayudante,40
+Maria Schmidt Vargas,20142025482,Hackathón,43
+Jhonathan Zúñiga Daza,20181025390,Asesoría Linux,47
+Andrea MontFerrer Pardo,20182005276,Alumno Curso GNU,49
+Daniel Sarri Garcia,20151007154,Asesoría Linux,50
+Pedro Garces Zúñiga,20122025453,Asesoría Linux,46
+Mauricio Puig Garrido,20122005157,Secretario,46
+Sofia Ortiz Dybala,20182007855,Hackathón,50
+Valentina Balaguera Balaguera,20132005168,Ayudante,45
+Esmeralda Bolaños Ortiz,20121005288,Asesoría Linux,45
+David Cardozo Fornals,20131020549,Alumno Curso GNU,40
+Ivanna Ortiz Vergara,20121025912,Ayudante,49
+Pedro De Ligt Rojas,20181005918,Secretario,42
+Sofia Pinto Garces,20182005315,Monitor,49
+Daniel Perez Buscalia,20142025043,Hackathón,42
+Angela Rodriguez Fornals,20172020203,Secretario,40
+Angela Garces Rodriguez,20111005953,Alumno Curso GNU,48
+Daniel Rojas Cardenas,20172020118,Ayudante,40
+Angela Schmidt Garces,20141025476,Ayudante,50
+Pedro Molina Garrido,20121020860,Alumno Curso GNU,46
+Monica Parra Cardenas,20182015157,Secretario,43
+Angela Garcia Cadena,20141020411,Hackathón,40
+Jorge Rodriguez Pitana,20172020797,Asesoría Linux,44
+Luis Perez Pitana,20152007158,Hackathón,45
+Ivanna Isla Thompson,20112005952,Ayudante,48
+Jairo De La Rua Escudero,20132020444,Ayudante,48
+Gustavo Cardozo Cardenas,20111020191,Monitor,47
+Angela Nieto Escudero,20111005469,Secretario,49
+Pedro Bolaños Espinel,20151020306,Alumno Curso GNU,42
+Ivanna Cardenas De Ligt,20172025935,Secretario,49
+Paula Fornals Pitana,20121020622,Asesoría Linux,41
+Juan Almonacid Cardozo,20171005522,Alumno Curso GNU,43
+Angela Zúñiga Rubio,20121015701,Secretario,40
+Santiago Buscalia Ortiz,20111015873,Monitor,45
+Catalina Garcia Zúñiga,20112025703,Monitor,43
+Maria Nieto Cardozo,20111007928,Secretario,49
+Ivanna Cardozo Malaver,20111005844,Secretario,44
+Sofia Almonacid Cardenas,20111015015,Secretario,46
+Natalie Polanco Schmidt,20162015444,Secretario,44
+Lucia Pardo Puig,20122007657,Ayudante,45
+Ana Puig Daza,20142015222,Ayudante,45
+Sofia Malaver Hernandez,20141015119,Asesoría Linux,45
+Bayron Molina Vidal,20152007900,Hackathón,49
+Ana Parra Rojas,20111005094,Alumno Curso GNU,40
+Ivanna Torres Zúñiga,20112025985,Ayudante,47
+Sebastian Zúñiga Scarpetta,20162025758,Asesoría Linux,50
+Mauricio Pitana Perez,20121005502,Secretario,42
+David Vidal Garcia,20142020180,Hackathón,44
+Santiago Cadena Almaguer,20151025857,Alumno Curso GNU,46
+Valentina Daza Espinel,20121025489,Alumno Curso GNU,44
+Luisa Benitez Schmidt,20172005926,Hackathón,40
+Natalie Garcia De La Rua,20152005604,Ayudante,45
+Monica Fornals Zúñiga,20121025940,Monitor,45
+Hernando Buscalia Pardo,20152020262,Secretario,50
+Alfredo Baquero Cardenas,20151025112,Monitor,49
+David Garrido Perez,20132005763,Alumno Curso GNU,50
+Mauricio Scarpetta Garcia,20171005030,Alumno Curso GNU,48
+Andrea Scarpetta Garcia,20122007177,Monitor,45
+Angela Isla Hernandez,20141015969,Hackathón,47
+Esmeralda Vidal Thompson,20141025569,Ayudante,45
+Gustavo Benitez Cardozo,20181025498,Asesoría Linux,41
+Sofia Cardozo Benitez,20161020944,Monitor,47
+Lucia Cardozo Garrido,20112025697,Monitor,46
+Gustavo Balaguera Polanco,20161020142,Asesoría Linux,43
+Paula Escudero Buscalia,20151025583,Secretario,45
+Esmeralda Garces Puig,20172007874,Asesoría Linux,44
+Sebastian Escudero Vargas,20161007420,Alumno Curso GNU,43
+Cristian Hernandez Rodriguez,20151007926,Asesoría Linux,43
+Bayron Garcia Cardenas,20171005086,Hackathón,44
+Monica Rodriguez De La Rua,20112005949,Monitor,42
+Andrea Garces Benitez,20162005090,Alumno Curso GNU,50
+Esmeralda Vargas Daza,20152005358,Hackathón,48
+Monica Garces Parra,20111020183,Hackathón,46
+Lucia MontFerrer Vidal,20111020248,Alumno Curso GNU,48
+Fernando Espinel Isla,20181005158,Secretario,43
+Daniel Ortiz Ortiz,20111025728,Secretario,49

@@ -1,0 +1,84 @@
+  <html>
+    <head>
+    <script>
+      var openFile = function(event) {
+        var input = event.target;
+
+        var reader = new FileReader();
+        reader.onload = function(){
+          var text = reader.result;
+          var splitted = text.split("\n");
+          var name = new Array();
+          var code = new Array();
+          var activity = new Array();
+          var nota = new Array();
+
+          for(i = 0; i< splitted.length-1; i++){
+          	var info = splitted[i];
+          	var infoSplit = info.split(",");
+
+          	name.push(infoSplit[0]);
+          	code.push(infoSplit[1]);
+          	activity.push(infoSplit[2])
+          	nota.push(infoSplit[3]);
+          }
+
+
+
+          console.log(splitted);
+          console.log(name);
+          var node = document.getElementById('output');
+
+          
+          var table = document.createElement('table');
+          table.setAttribute("id","tablita");
+          document.body.appendChild(table);
+          var z = document.getElementById("tablita");
+
+		  for(j = 0; j < splitted.length-1; j++){
+		  	var y = document.createElement("TR");
+          	
+          	var alter = document.createElement("TD");
+          	var efu = document.createTextNode(name[j]);
+          	alter.appendChild(efu);
+  			y.append(alter);
+  			z.appendChild(y);
+  
+  			var alter = document.createElement("TD");
+  			var efu = document.createTextNode(code[j]);	
+  			alter.appendChild(efu);
+  			y.append(alter);
+  			z.appendChild(y);
+
+
+  			var alter = document.createElement("TD");
+          	var efu = document.createTextNode(activity[j]);
+          	alter.appendChild(efu);
+  			y.append(alter);
+  			z.appendChild(y);
+
+
+  			var alter = document.createElement("TD");
+          	var efu = document.createTextNode(nota[j]);
+          	alter.appendChild(efu);
+  			y.append(alter);
+  			z.appendChild(y);
+
+		  }
+          
+			
+          //node.innerText = text;
+          console.log(reader.result.substring(0, 200));
+
+        };
+        reader.readAsText(input.files[0]);
+      };
+    </script>
+    </head>
+    <body>
+    <input type='file' accept='text/plain' onchange='openFile(event)'><br>
+    <div id='output'>
+    ...
+    </div>
+    </body>
+    </html>
