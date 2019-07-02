@@ -1,0 +1,42 @@
+// Reporte para Iden16
+<div ng-controller="Iden16Ctrl">
+<div class="jumbotron text-center">
+<h2>Certificado de participacion GLUD</h2>
+<hr>
+<p>
+
+El Grupo Linux de la Universidad Distrital (GLUD) certifica que el estudiante 
+
+Jorge_Sarri_Cardozo
+
+ con codigo 
+
+c20111007495
+
+ fue miembro del grupo GLUD y participo y completo las siguientes actividades: 
+
+Hackathon
+
+, al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de  
+
+n47
+
+
+
+</p>
+
+</div>
+<script>
+$(document).ready(function() {
+  $('#list').DataTable( {
+      columnDefs: [ {
+          targets: [ 0 ],
+          orderData: [ 0, 1 ]
+      }, {
+          targets: [ 1 ],
+          orderData: [ 1, 0 ]
+      }]
+  } );
+} );
+</script>
+</div>

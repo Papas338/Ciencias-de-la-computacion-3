@@ -1,14 +1,8 @@
-entity EstudiantePrueba {
-  Jhonathan_Rojas : string       // Nombre de la persona
-  c20151020041 : integer       // Apellido de la persona
-  patatapetetepititiputoelquelolea : string        // integer and string are built-in objects
-  nota : integer       // mail de la persona
-}
 entity Iden1 {
   Paula_Pertuz_Cardozo : string
   c20162015006 : integer
   Monitor : string
-  n47  : integer
+  n47 : integer
 }
 entity Iden2 {
   Luisa_Vidal_DeLaRua : string

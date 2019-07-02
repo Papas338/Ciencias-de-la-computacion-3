@@ -1,0 +1,6 @@
+entity EstudiantePrueba {
+  Jhonathan_Rojas : string       // Nombre de la persona
+  c20151020041 : integer       // Apellido de la persona
+  patatapetetepititiputoelquelolea : string        // integer and string are built-in objects
+  nota : integer       // mail de la persona
+}
