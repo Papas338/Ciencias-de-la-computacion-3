@@ -1,35 +1,54 @@
-// Reporte para {{entity.name|capitalize}}
+</!DOCTYPE html>
+<html>
+<head>
+	<title> Reporte para {{entity.name|capitalize}} </title>
+</head>
+<link rel="stylesheet" type="text/css" href="myStyle.css">
+<body>
 <div ng-controller="{{entity.name|capitalize}}Ctrl">
 <div class="jumbotron text-center">
-<h2>{{'Certificado de participacion GLUD'}}</h2>
+<h2 class="text-center">{{'Certificado de participacion GLUD'}}</h2>
 <hr>
 
-<p>
-{{entity.nota}}
-{{entity.nombre}}
-<p>
+<h3>
+	Universidad Distrital Francisco Jose de Caldas - Facultad de Ingenieria
+</h3>
+
+<h4>
+	Proyecto Curricular Ingenieria de Sistemas - Grupo Linux Universidad Distrital
+</h4>
+
+
 <p>
 
 {{'El Grupo Linux de la Universidad Distrital (GLUD) certifica que el estudiante '}}
 
-{% set propie = entity.activ %}
+
 {{entity.nombre}}
 
 {{' con codigo '}}
 
-{{entity.nota}}
+{{entity.codigo}}
+
+
 
 {{' fue miembro del grupo GLUD y participo y completo las siguientes actividades: '}}
+</p>
+{% for activ in entity.activ %}
+<ul>
+{{ activ }}
+</ul>
 
-{{propie[2].name}}
+{% endfor%}
 
-{{', al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de '}} 
+<p>{{'Al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de '}} 
 
 {{entity.nota}}
 
-{{''}}
-
+{{' obtenida en el semestre academico 2019-1.'}}
 </p>
+
+
 
 </div>
 <script>
@@ -46,3 +65,8 @@ $(document).ready(function() {
 } );
 </script>
 </div>
+
+
+
+</body>
+</html>

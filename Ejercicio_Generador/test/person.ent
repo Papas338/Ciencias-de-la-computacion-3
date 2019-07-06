@@ -1,120 +1,165 @@
-entity Iden1 {
-  Paula_Pertuz_Cardozo : string
-  c20162015006 : integer
-  Monitor : string
-  n47 : integer
+certificado Iden1 {
+  "Angela Ortiz Zuniga"
+  20141020602
+  44
+  "Monitor"
+  "Hackathon"
+  "Secretario"
+  "Curso GNU"
+  "Monitor"
 }
-entity Iden2 {
-  Luisa_Vidal_DeLaRua : string
-  c20161020529 : integer
-  Hackathon : string
-  n47 : integer
+certificado Iden2 {
+  "Sofia Scarpetta Escudero"
+  20122007462
+  40
+  "Hackathon"
 }
-entity Iden3 {
-  Mauricio_Caminero_Lopez : string
-  c20152007417 : integer
-  Asesoria_Linux : string
-  n49 : integer
+certificado Iden3 {
+  "Gustavo Daza Rubio"
+  20111025346
+  41
+  "Secretario"
+  "Curso GNU"
 }
-entity Iden4 {
-  Sebastian_DeLigt_Zuniga : string
-  c20142020442 : integer
-  Secretario : string
-  n42 : integer
+certificado Iden4 {
+  "Angela Rubio Polanco"
+  20132025737
+  42
+  "Ayudante"
+  "Asesoria Linux"
+  "Ayudante"
+  "Hackathon"
+  "Secretario"
 }
-entity Iden5 {
-  Esmeralda_Scarpetta_Garces : string
-  c20162005916 : integer
-  Alumno_CursoGNU : string
-  n41 : integer
+certificado Iden5 {
+  "Luisa Vidal Baquero"
+  20151005680
+  49
+  "Asesoria Linux"
+  "Ayudante"
 }
-entity Iden6 {
-  Juan_Garces_MontFerrer : string
-  c20151007149 : integer
-  Asesoria_Linux : string
-  n49 : integer
+certificado Iden6 {
+  "Sofia Daronco Rodriguez"
+  20142007906
+  45
+  "Hackathon"
+  "Asesoria Linux"
+  "Asesoria Linux"
+  "Hackathon"
+  "Curso GNU"
 }
-entity Iden7 {
-  Federico_DeLigt_Hernandez : string
-  c20181020353 : integer
-  Hackathon : string
-  n41 : integer
+certificado Iden7 {
+  "Maria Pertuz Vargas"
+  20182005181
+  45
+  "Monitor"
+  "Asesoria Linux"
 }
-entity Iden8 {
-  Fernando_Puig_DeLaRua : string
-  c20151015230 : integer
-  Secretario : string
-  n42 : integer
+certificado Iden8 {
+  "Ana Benitez Zuniga"
+  20122005710
+  41
+  "Hackathon"
+  "Hackathon"
+  "Hackathon"
 }
-entity Iden9 {
-  Bryan_Cardenas_Rojas : string
-  c20181007277 : integer
-  Hackathon : string
-  n48 : integer
+certificado Iden9 {
+  "Hernando Cardenas Molina"
+  20132005258
+  41
+  "Curso GNU"
+  "Ayudante"
+  "Curso GNU"
 }
-entity Iden10 {
-  Jose_Pardo_Dybala : string
-  c20131015105 : integer
-  Alumno_CursoGNU : string
-  n42 : integer
+certificado Iden10 {
+  "Cristian DeLigt Nieto"
+  20171020230
+  44
+  "Ayudante"
+  "Ayudante"
+  "Curso GNU"
 }
-entity Iden11 {
-  Santiago_Vergara_Molina : string
-  c20142015903 : integer
-  Secretario : string
-  n50 : integer
+certificado Iden11 {
+  "Lucia Pitana Scarpetta"
+  20112007278
+  46
+  "Curso GNU"
+  "Secretario"
 }
-entity Iden12 {
-  Veronica_Rubio_Cadena : string
-  c20122005114 : integer
-  Asesoria_Linux : string
-  n41 : integer
+certificado Iden12 {
+  "Cristian Espinel Pertuz"
+  20112020835
+  42
+  "Asesoria Linux"
+  "Monitor"
+  "Secretario"
+  "Ayudante"
 }
-entity Iden13 {
-  Federico_MontFerrer_Vergara : string
-  c20142015874 : integer
-  Ayudante : string
-  n49 : integer
+certificado Iden13 {
+  "Catalina Sarri Garcia"
+  20121020297
+  43
+  "Asesoria Linux"
+  "Ayudante"
+  "Monitor"
+  "Secretario"
+  "Ayudante"
 }
-entity Iden14 {
-  Alfredo_Rodriguez_Polanco : string
-  c20172007068 : integer
-  Alumno_CursoGNU : string
-  n40 : integer
+certificado Iden14 {
+  "Luisa Rojas Ortiz"
+  20122007784
+  43
+  "Monitor"
+  "Secretario"
 }
-entity Iden15 {
-  Daniel_Espinel_Cardenas : string
-  c20181020762 : integer
-  Alumno_CursoGNU : string
-  n46 : integer
+certificado Iden15 {
+  "Jose Ortiz Pitana"
+  20142015472
+  43
+  "Secretario"
+  "Hackathon"
+  "Curso GNU"
 }
-entity Iden16 {
-  Jorge_Sarri_Cardozo : string
-  c20111007495 : integer
-  Hackathon : string
-  n47 : integer
+certificado Iden16 {
+  "Hernando Espinel Thompson"
+  20152015577
+  46
+  "Curso GNU"
+  "Secretario"
+  "Ayudante"
+  "Curso GNU"
 }
-entity Iden17 {
-  Santiago_Rodriguez_Polanco : string
-  c20132015344 : integer
-  Alumno_CursoGNU : string
-  n42 : integer
+certificado Iden17 {
+  "Luisa Sarri Daronco"
+  20141005085
+  48
+  "Ayudante"
+  "Monitor"
+  "Hackathon"
+  "Hackathon"
 }
-entity Iden18 {
-  Fernando_Daza_DeLigt : string
-  c20142005441 : integer
-  Hackathon : string
-  n40 : integer
+certificado Iden18 {
+  "Natalie Schmidt Caminero"
+  20182005950
+  45
+  "Hackathon"
 }
-entity Iden19 {
-  Hernando_Rubio_Zuniga : string
-  c20171020660 : integer
-  Asesoria_Linux : string
-  n49 : integer
+certificado Iden19 {
+  "Juan Scarpetta Vergara"
+  20182020737
+  50
+  "Hackathon"
+  "Curso GNU"
+  "Hackathon"
+  "Secretario"
 }
-entity Iden20 {
-  Bryan_Almaguer_Hernandez : string
-  c20121020792 : integer
-  Hackathon : string
-  n46 : integer
+certificado Iden20 {
+  "Hernando Baquero Garcia"
+  20132015416
+  40
+  "Asesoria Linux"
+  "Secretario"
+  "Asesoria Linux"
+  "Asesoria Linux"
+  "Monitor"
 }

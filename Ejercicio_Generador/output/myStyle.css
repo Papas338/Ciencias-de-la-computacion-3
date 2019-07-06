@@ -1,0 +1,54 @@
+body{
+	background:#FFFFFF;
+
+}
+
+h1{
+	font-size: 50px;
+	color: #00000F;
+	font-family: fantasy;
+	text-align: center;
+}
+
+h2{
+	font-size: 35px;
+	color: #00000F;
+	font-family: monospace;
+	text-align: center;
+}
+h3{
+	font-size: 30px;
+	color: #00000F;
+	font-family: Arial;
+	text-align: center;
+}
+h4{
+	font-size: 25px;
+	color: #00000F;
+	font-family: Arial;
+	text-align: center;
+}
+
+footer{
+	border-radius: 25px;
+	color: white;
+	/*background: #d8d4d4;*/
+}
+
+section{
+
+}
+
+p{
+	font-size: 20px;
+	text-align: center;
+	color: #001A11;
+	font-family: arial;
+	text-align: left;
+}
+
+ul{
+	font-size: 20px;
+	font-family: serif;
+	color: #000000;	
+}

@@ -11,9 +11,9 @@ EntityModel:
 Entity:
     'certificado' name=ID '{'
 		nombre = Nombre
-		codigo = Codigo
+        codigo = Codigo
 		nota  = Nota
-		activ += Actividad
+		activ+=Actividad
     '}'
 ;
 
@@ -23,7 +23,7 @@ Nombre:
 
 
 Codigo:
-	/[1-9][0-9]{9}/
+	/\d\d{10}/
 ;
 
 Nota:

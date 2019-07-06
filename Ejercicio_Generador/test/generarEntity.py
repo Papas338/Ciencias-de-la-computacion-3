@@ -10,7 +10,7 @@ apellido =["Vargas","Rojas","Ortiz","DeLaRua","MontFerrer","Pitana","Dybala","He
 
 
 def actividad():
-	act = ["Monitor","Alumno_CursoGNU","Ayudante","Secretario","Hackathon","Asesoria_Linux"]
+	act = ["Monitor","Curso GNU","Ayudante","Secretario","Hackathon","Asesoria Linux"]
 
 	return act[random.randint(0,len(act)-1)]
 
@@ -43,10 +43,10 @@ def generarNombres(n):
 		segAp = apellido[random.randint(0,len(apellido)-1)]
 		if gender == 0:
 			p = random.randint(0,len(nombresM)-1)			
-			x = nombresM[p] + "_" + primAp + "_" + segAp
+			x = nombresM[p] + " " + primAp + " " + segAp
 		else:
 			p = random.randint(0,len(nombresF)-1)
-			x = nombresF[p] + "_" + primAp + "_" + segAp
+			x = nombresF[p] + " " + primAp + " " + segAp
 
 		listaNombres.append(x)
 	return listaNombres
@@ -61,11 +61,14 @@ num = 1
 for elem in nombrecillos:
         code = codigo();
         k = "Iden"+str(num);
-        archivo.write("entity "+k+ " {\n")
-        archivo.write("  "+elem+" : string\n")
-        archivo.write("  c"+code+" : integer\n")
-        archivo.write("  "+actividad()+" : string\n")
-        archivo.write("  n"+nota()+" : integer\n")
+        archivo.write("certificado "+k+ " {\n")
+        archivo.write("  \""+elem+"\"\n")
+        archivo.write("  "+code+"\n")
+        archivo.write("  "+nota()+"\n")
+        activNums = random.randint(1,5)
+
+        for i in range(0,activNums):
+        	archivo.write("  \""+actividad()+"\"\n")        
         archivo.write("}\n")
         num+=1
 archivo.close()

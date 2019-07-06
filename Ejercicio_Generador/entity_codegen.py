@@ -2,6 +2,9 @@
 An example how to generate angularjs code from textX model using jinja2
 template engine (http://jinja.pocoo.org/docs/dev/)
 """
+#!/usr/bin/env python 
+# -*- coding: utf-8 -*-
+
 from os import mkdir
 from os.path import exists, dirname, join
 import jinja2
@@ -41,14 +44,29 @@ def main(debug=False):
 
     jinja_env.tests['entity'] = is_entity
 
+
     # Load template
     template = jinja_env.get_template('reporte.template')
+
+    for entity in person_model.entities:
+        x = entity.nombre
+        print(x)
+
+
+
+
 
     for entity in person_model.entities:
         # For each entity generate java file
         with open(join(srcgen_folder,
                        "%s.html" % entity.name.capitalize()), 'w') as f:
             f.write(template.render(entity=entity))
+
+    cssTemplate = jinja_env.get_template('myStyle.template')
+    with open(join(srcgen_folder,
+                       "%s.css" % "myStyle"), 'w') as f:
+            f.write(cssTemplate.render())
+
 
 if __name__ == "__main__":
     main()
