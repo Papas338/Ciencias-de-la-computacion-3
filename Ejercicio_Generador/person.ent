@@ -1,5 +1,44 @@
+certificado IdenTest1 {
+  "Jhonatan Daniel Rojas Zora"
+  20151020054
+  50  
+  "Curso GNU"  
+}
+
+certificado IdenTest2 {
+  "Daniel Alfonso Vargas Ortiz"
+  20152020009
+  50  
+  "Curso GNU"  
+  "Curso Docker"
+  "Curso DevOps"
+}
+
+
+certificado IdenTest3 {
+  "David Santiago Garcés Benítez"
+  20151020045
+  49    
+  "Curso Docker"
+  "Curso DevOps"
+  "Curso CentOS"
+}
+
+
 certificado Iden1 {
-  "Angela Ortiz Zuniga"
+  "Ángela Ortiz Zuñiga"
+  20141020602
+  44
+  "Monitor"
+  "Hackathon"
+  "Secretario"
+  "Curso GNU"
+  "Monitor"
+}
+
+
+certificado Iden1 {
+  "Ángela Ortiz Zuñiga"
   20141020602
   44
   "Monitor"
@@ -9,7 +48,7 @@ certificado Iden1 {
   "Monitor"
 }
 certificado Iden2 {
-  "Sofia Scarpetta Escudero"
+  "Sofía Scarpetta Escudero"
   20122007462
   40
   "Hackathon"
@@ -154,12 +193,12 @@ certificado Iden19 {
   "Secretario"
 }
 certificado Iden20 {
-  "Hernando Baquero Garcia"
+  "Hernando Baquero García"
   20132015416
   40
-  "Asesoria Linux"
+  "Asesoría Linux"
   "Secretario"
-  "Asesoria Linux"
-  "Asesoria Linux"
+  "Asesoría Linux"
+  "Asesoría Linux"
   "Monitor"
 }

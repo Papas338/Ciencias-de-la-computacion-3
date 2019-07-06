@@ -1,21 +1,21 @@
 </!DOCTYPE html>
 <html>
 <head>
-	<title> Reporte para {{entity.name|capitalize}} </title>
+	<title> Reporte para {{entity.nombre}} {{' - '}} {{entity.codigo}} </title>
 </head>
 <link rel="stylesheet" type="text/css" href="myStyle.css">
 <body>
 <div ng-controller="{{entity.name|capitalize}}Ctrl">
 <div class="jumbotron text-center">
-<h2 class="text-center">{{'Certificado de participacion GLUD'}}</h2>
+<h2 class="text-center">{{'Certificado de participación GLUD'}}</h2>
 <hr>
 
 <h3>
-	Universidad Distrital Francisco Jose de Caldas - Facultad de Ingenieria
+	Universidad Distrital Francisco José de Caldas - Facultad de Ingeniería
 </h3>
 
 <h4>
-	Proyecto Curricular Ingenieria de Sistemas - Grupo Linux Universidad Distrital
+	Proyecto Curricular Ingeniería de Sistemas - Grupo Linux Universidad Distrital
 </h4>
 
 
@@ -26,7 +26,7 @@
 
 {{entity.nombre}}
 
-{{' con codigo '}}
+{{' con código '}}
 
 {{entity.codigo}}
 
@@ -45,7 +45,7 @@
 
 {{entity.nota}}
 
-{{' obtenida en el semestre academico 2019-1.'}}
+{{' obtenida en el semestre académico 2019-1.'}}
 </p>
 
 

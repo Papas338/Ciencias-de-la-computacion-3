@@ -48,19 +48,14 @@ def main(debug=False):
     # Load template
     template = jinja_env.get_template('reporte.template')
 
-    for entity in person_model.entities:
-        x = entity.nombre
-        print(x)
-
-
-
-
 
     for entity in person_model.entities:
         # For each entity generate java file
         with open(join(srcgen_folder,
                        "%s.html" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
+            x = template.render(entity=entity)
+            f.write(x.encode('utf-8'))
+
 
     cssTemplate = jinja_env.get_template('myStyle.template')
     with open(join(srcgen_folder,
