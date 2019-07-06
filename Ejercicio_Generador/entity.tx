@@ -9,11 +9,32 @@ EntityModel:
 ;
 
 Entity:
-    'entity' name=ID '{'
-        properties+=Property // Each entity has one or more properties.
+    'certificado' name=ID '{'
+		nombre = Nombre
+		codigo = Codigo
+		nota  = Nota
+		activ += Actividad
     '}'
 ;
 
+Nombre:
+    STRING
+;
+
+
+Codigo:
+	/[1-9][0-9]{9}/
+;
+
+Nota:
+    INT
+;
+	
+Actividad:
+	STRING
+
+;	
+	
 Property:
     name=ID ':' type=[Type]     // type is a reference to Type instance.
                                 // There are two built-in simple types 

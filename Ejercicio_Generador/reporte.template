@@ -3,16 +3,21 @@
 <div class="jumbotron text-center">
 <h2>{{'Certificado de participacion GLUD'}}</h2>
 <hr>
+
+<p>
+{{entity.nota}}
+{{entity.nombre}}
+<p>
 <p>
 
 {{'El Grupo Linux de la Universidad Distrital (GLUD) certifica que el estudiante '}}
 
-{% set propie = entity.properties %}
-{{propie[0].name}}
+{% set propie = entity.activ %}
+{{entity.nombre}}
 
 {{' con codigo '}}
 
-{{propie[1].name}}
+{{entity.nota}}
 
 {{' fue miembro del grupo GLUD y participo y completo las siguientes actividades: '}}
 
@@ -20,7 +25,7 @@
 
 {{', al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de '}} 
 
-{{propie[3].name}}
+{{entity.nota}}
 
 {{''}}
 
