@@ -34,13 +34,14 @@
 
 {{' fue miembro del grupo GLUD y participo y completo las siguientes actividades: '}}
 </p>
-{% for activ in entity.activ %}
 <ul>
-{{ activ }}
-</ul>
+{% for activ in entity.activ %}
+
+<li>{{ activ }}</li>
+
 
 {% endfor%}
-
+</ul>
 <p>{{'Al seguir todas estas actividades se le ha reconocido su esfuerzo y entregado la nota de '}} 
 
 {{entity.nota}}
