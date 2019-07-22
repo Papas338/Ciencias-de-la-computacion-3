@@ -1,0 +1,12 @@
+entity Restaurante {
+  nombre : string //nombre del restaurante
+  direccion: string
+  telefono : string
+}
+entity Plato {
+  id : string
+  nombre : string
+  tipo : string
+  precio : integer
+  accion : string
+}
