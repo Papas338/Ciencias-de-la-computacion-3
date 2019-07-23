@@ -3,10 +3,10 @@
 
     <title>Libro</title>
     <!-- Bootstrap Core CSS -->
-    <?php
-    $link = new PDO('mysql:host=localhost;dbname=restaurante', 'root', '12345');
 
-  ?>
+    <!--    
+    -->
+
     <link rel="stylesheet" type="text/css" href="estiloLibro.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -64,18 +64,6 @@
             </tr>
         </thead>
         <tbody>
-          <?php foreach ($link->query('SELECT * from Libros') as $row){ // busqueda de platos. ?> 
-            <tr>
-                        <td><p align="center"><?php echo $row['id'] ?></p></td>
-                        <td><img src="imagenes\<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['nombre'] ?></p></td>
-                        <td><p align="center"><?php echo $row['genero'] ?></p></td>
-                        <td><button onclick="add(this)" class="btn btn-primary btn-xs"> Agregar Libro
-                          </button>
-                        </td>
-            </tr>
-            <?php
-            }
-          ?>
         </tbody>
     <tfoot>
     </tfoot>
