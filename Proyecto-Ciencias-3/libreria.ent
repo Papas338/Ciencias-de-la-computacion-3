@@ -1,0 +1,11 @@
+entity Biblioteca {
+  nombre : string
+  direccion: string
+  telefono : string
+}
+entity Libro {
+  id : string
+  nombre : string
+  genero : string
+  accion : string
+}
