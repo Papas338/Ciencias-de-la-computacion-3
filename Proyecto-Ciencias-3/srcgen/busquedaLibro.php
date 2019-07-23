@@ -119,7 +119,7 @@
         <footer>
             <div class="row" style="text-align: right; margin-right:50px; margin-top:17%;">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Oscar Torres - Yohan Almonacid - 2019</p>
+                    <p>Copyright &copy; Daniel Vargas - Jhonathan Rojas - David Garces - 2019</p>
                 </div>
             </div>
         </footer>
