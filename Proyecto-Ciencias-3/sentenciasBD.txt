@@ -1,0 +1,122 @@
+CREATE TABLE `biblioteca`.`Biblioteca` ( `id` VARCHAR(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `nombre` VARCHAR(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `direccion` VARCHAR(120) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `telefono` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL ) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
+REATE TABLE `biblioteca`.`Libro` ( `id` VARCHAR(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `nombre` VARCHAR(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `genero` VARCHAR(60) CHARACTER SET utf8 COLLATE utf8_general_ci NULL , `precio` INT NULL , `autor` VARCHAR(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL ) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
+
+
+
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("1", "BIBLIOTECA PÚBLICA LA GIRALDA", "CARRERA 104B N° 22J - 15", "4181947")
+
+"2"
+"BIBLIOTECA PÚBLICA VIRGILIO BARCO"
+"AVENIDA CARRERA 60 N° 57-60"
+"3793520")
+
+"3"
+"BIBLIOTECA PÚBLICA DEL DEPORTE"
+"Estadio Nemesio Camacho El Campín - Carrera 30 Calle 57 Local 9"
+"3790150")
+
+"4"
+"BIBLIOTECA PÚBLICA FRANCISCO JOSE DE CALDAS - SUBA"
+"CARRERA 92 N° 146C-24"
+"3790167")
+
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("5", "CENTRO CULTURAL BIBLIOTECA PÚBLICA JULIO MARIO SANTO DOMINGO", "AVENIDA CALLE 170 N° 67-51", "37925
+
+
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("6","BIBLIOTECA PÚBLICA MUNICIPAL DE LETICIA","CASA DE LA CULTURA MAESTRO ALFONSO DAVILA RIBEIRO","3202896123");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("7","BIBLIOTECA PÚBLICA SAN JAVIER LA LOMA","CARRERA 124 N° 53 - 40","4385761");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("8","BIBLIOTECA PÚBLICA MUNICIPAL DE GALAPA","CALLE 12 CARRERA 18 ESQUINA","3086882");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("9","BIBLIOTECA PÚBLICA JUANA PEREZ MOLINA","CALLE DE LA IGLESIA CRA 3 N° 12-14 ESQUINA","3145190676");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("10","BIBLIOTECA MUNICIPAL DE AGUA CLARA","CALLE 5° N° 1a-86","3208481290");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("11","BIBLIOTECA MUNICIPAL 'ARCADIO PLAZAS'","CALLE 6 N° 8-90","8444512");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("12","BIBLIOTECA PÚBLICA JUSTINO ERNESTO REVELO OBANDO","CARRERA 4 CALLE 4 ESQUINA","7422082");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("13","BIBLIOTECA PÚBLICA LUIS MERCHAN SUAREZ","CARRERA 6 N° 5-68","	
+6626003");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("14","BIBLIOTECA PÚBLICA MUNICIPAL TIBERIO PINZON LEON","CALLE 6 N° 4-92","3216341842");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("15","BIBLIOTECA PÚBLICA MUNICIPAL DE GINEBRA","CARRERA 3 N° 2-52","2563170");
+
+
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+ "1", 
+"Cien años de soledad", 
+"Drama", 
+45000, 
+"Gabriel García Márquez"
+);
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"2",
+"El viejo y el mar",
+"Cuento",
+15000,
+"Ernest Hemingway"
+);
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"3",
+"El sonido de la montaña",
+"Novela",
+50000,
+"Yasunari Kawabata"
+);
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"4",
+"Lolita",
+"Tragicomedia",
+35000,
+"Vladimir Nabokov"
+);
+
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"5",
+"Ulises",
+"Novela Modernista",
+25000,
+"James Joyce"
+);
+
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"6",
+"Los hermanos Karamazov",
+"Novela Filosófica",
+17500,
+"Fiódor Dostoievski"
+);
+
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"7",
+"Las aventuras de Huckleberry Finn",
+"Novela de Aventuras",
+12000,
+"Mark Twain"
+);
+
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"8",
+"Relatos cortos",
+"Antología",
+45000,
+"Antón Chéjov"
+);
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"9",
+"La muerte de Iván Ilich",
+"Novela",
+30000,
+"Lev Tolstói"
+);
+
+INSERT INTO `Libro`(`id`, `nombre`, `genero`, `precio`, `autor`) VALUES (
+"10",
+"Fausto",
+"Novela",
+15000,
+"Johann Wolfgang von Goethe"
+);

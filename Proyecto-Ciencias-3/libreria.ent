@@ -8,6 +8,8 @@ entity Biblioteca {
 entity Libro {
   id : string
   nombre : string
+  autor : string
+  precio : string  
   genero : string
   accion : string
 }

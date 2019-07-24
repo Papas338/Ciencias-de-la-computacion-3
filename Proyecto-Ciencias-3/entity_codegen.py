@@ -87,7 +87,8 @@ def main(debug=False):
         # For each entity generate js file
         with open(join(srcgen_folder,
                        "busqueda%s.php" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
+            x = template.render(entity=entity)
+            f.write(x.encode('utf-8'))
 
 if __name__ == "__main__":
     main()

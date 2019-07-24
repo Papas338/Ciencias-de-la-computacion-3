@@ -6,15 +6,15 @@
     <meta charset="UTF-8">
     <title>Biblioteca</title>
     <!-- Bootstrap Core CSS -->
-
+    <!--Current character set: %s\n", $link->character_set_name() -->
     
     <?php
     $link = mysqli_connect('localhost','root','','biblioteca');    
-        
+
     if (!$link->set_charset("utf8")) {
         printf("Error loading character set utf8: %s\n", $link->error);
     } else {
-        printf("Current character set: %s\n", $link->character_set_name());
+        printf("");
     }
     
 
@@ -39,6 +39,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
+                  <li><a href="homeBiblioteca.html">Home</a></li>
                 </ul>
                     <div class="flexsearch">
                         <div class="flexsearch--wrapper">
@@ -85,7 +86,7 @@
           <?php foreach ($link->query('SELECT * from Biblioteca') as $row){ // busqueda de platos. ?> 
             <tr>
                         <td><p align="center"><?php echo $row['id'] ?></p></td>
-                        <td><img src="../imagenes/<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['nombre'] ?></p></td>
+                        <td><img src="../imagenes/Biblioteca/<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['nombre'] ?></p></td>
                         <td><p align="center"><?php echo $row['direccion'] ?></p></td>
                         <td><p align="center"><?php echo $row['telefono'] ?></p></td>
                         <td><button onclick="add(this)" class="btn btn-primary btn-xs"> Agregar Biblioteca
@@ -130,8 +131,14 @@
  </div>    
  <input type="button" class="btn btn-primary btn-xs" onclick="tableToExcel('target', 'name', 'Recibo.xls')" value="  Imprimir Recibo Biblioteca  ">      
                
+
     <!-- /.container -->
 
+
+<div class="container">
+  <a class="btn btn-dark" role="button" href="homeBiblioteca.html">Regresar al menú</button>
+  
+</div>
     <div class="container">
         <hr>
         <!-- Footer -->
@@ -287,7 +294,7 @@ function FuncionTipo() {
 
           // Loop through all table rows, and hide those who don't match the search query
           for (i = 0; i < tr.length; i++) {
-            td = tr[i].getElementsByTagName("td")[2];
+            td = tr[i].getElementsByTagName("td")[1];
             if (td) {
               txtValue = td.textContent || td.innerText;
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
