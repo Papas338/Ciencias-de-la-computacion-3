@@ -3,24 +3,14 @@ REATE TABLE `biblioteca`.`Libro` ( `id` VARCHAR(20) CHARACTER SET utf8 COLLATE u
 
 
 
-INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("1", "BIBLIOTECA PÚBLICA LA GIRALDA", "CARRERA 104B N° 22J - 15", "4181947")
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("1", "BIBLIOTECA PÚBLICA LA GIRALDA", "CARRERA 104B N° 22J - 15", "4181947");
 
-"2"
-"BIBLIOTECA PÚBLICA VIRGILIO BARCO"
-"AVENIDA CARRERA 60 N° 57-60"
-"3793520")
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("2","BIBLIOTECA PÚBLICA VIRGILIO BARCO","AVENIDA CARRERA 60 N° 57-60","3793520");
 
-"3"
-"BIBLIOTECA PÚBLICA DEL DEPORTE"
-"Estadio Nemesio Camacho El Campín - Carrera 30 Calle 57 Local 9"
-"3790150")
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("3","BIBLIOTECA PÚBLICA DEL DEPORTE","Estadio Nemesio Camacho El Campín - Carrera 30 Calle 57 Local 9","3790150");
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("4","BIBLIOTECA PÚBLICA FRANCISCO JOSE DE CALDAS - SUBA","CARRERA 92 N° 146C-24","3790167");
 
-"4"
-"BIBLIOTECA PÚBLICA FRANCISCO JOSE DE CALDAS - SUBA"
-"CARRERA 92 N° 146C-24"
-"3790167")
-
-INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("5", "CENTRO CULTURAL BIBLIOTECA PÚBLICA JULIO MARIO SANTO DOMINGO", "AVENIDA CALLE 170 N° 67-51", "37925
+INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("5", "CENTRO CULTURAL BIBLIOTECA PÚBLICA JULIO MARIO SANTO DOMINGO", "AVENIDA CALLE 170 N° 67-51", "3792530");
 
 
 INSERT INTO `biblioteca`(`id`, `nombre`, `direccion`, `telefono`) VALUES ("6","BIBLIOTECA PÚBLICA MUNICIPAL DE LETICIA","CASA DE LA CULTURA MAESTRO ALFONSO DAVILA RIBEIRO","3202896123");
