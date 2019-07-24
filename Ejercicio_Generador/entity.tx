@@ -10,20 +10,15 @@ EntityModel:
 
 Entity:
     'certificado' name=ID '{'
-		nombre = Nombre
-        codigo = Codigo
+		persona = Persona
 		nota  = Nota
 		activ+=Actividad
     '}'
 ;
 
-Nombre:
-    STRING
-;
-
-
-Codigo:
-	/\d\d{10}/
+Persona:
+    nombre = STRING
+    codigo = /\d\d{10}/
 ;
 
 Nota:

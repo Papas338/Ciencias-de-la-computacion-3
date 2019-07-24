@@ -76,7 +76,9 @@ def main(debug=False):
         # For each entity generate js file
         with open(join(srcgen_folder,
                        "home%s.html" % entity.name.capitalize()), 'w') as f:
-            f.write(template.render(entity=entity))
+            
+            x = template.render(entity=entity)
+            f.write(x.encode('utf-8'))
 
     # Load template
     template = jinja_env.get_template('busqueda.template')

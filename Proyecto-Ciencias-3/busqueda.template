@@ -1,16 +1,25 @@
 <!DOCTYPE html>
-<head>
+<!DOCTYPE html>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
     <title>{{entity.name|capitalize}}</title>
     <!-- Bootstrap Core CSS -->
 
-    <!--
+    
     <?php
-    $link = new PDO('mysql:host=localhost;dbname=restaurante', 'root', '12345');
-
+    $link = mysqli_connect('localhost','root','','biblioteca');    
+        
+    if (!$link->set_charset("utf8")) {
+        printf("Error loading character set utf8: %s\n", $link->error);
+    } else {
+        printf("Current character set: %s\n", $link->character_set_name());
+    }
+    
 
   ?>
--->
+
 <!--
 -->
     <link rel="stylesheet" type="text/css" href="estilo{{entity.name}}.css">
@@ -69,13 +78,13 @@
             </tr>
         </thead>
         <tbody>
-          <!--
+          
 
-          <?php foreach ($link->query('SELECT * from {{entity.name}}s') as $row){ // busqueda de platos. ?> 
+          <?php foreach ($link->query('SELECT * from {{entity.name}}') as $row){ // busqueda de platos. ?> 
             <tr>
                 {% for property in entity.properties %}
                     {% if property.name == 'nombre'%}
-                        <td><img src="imagenes\<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['{{property.name}}'] ?></p></td>
+                        <td><img src="../imagenes/<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['{{property.name}}'] ?></p></td>
                     {% elif property.name == 'accion'%}
                         <td><button onclick="add(this)" class="btn btn-primary btn-xs"> Agregar {{entity.name|capitalize}}
                           </button>

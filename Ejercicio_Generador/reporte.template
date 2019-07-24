@@ -1,7 +1,7 @@
 </!DOCTYPE html>
 <html>
 <head>
-	<title> Reporte para {{entity.nombre}} {{' - '}} {{entity.codigo}} </title>
+	<title> Reporte para {{entity.persona.nombre}} {{' - '}} {{entity.persona.codigo}} </title>
 </head>
 <link rel="stylesheet" type="text/css" href="myStyle.css">
 <body>
@@ -24,11 +24,11 @@
 {{'El Grupo Linux de la Universidad Distrital (GLUD) certifica que el estudiante '}}
 
 
-{{entity.nombre}}
+{{entity.persona.nombre}}
 
 {{' con código '}}
 
-{{entity.codigo}}
+{{entity.persona.codigo}}
 
 
 

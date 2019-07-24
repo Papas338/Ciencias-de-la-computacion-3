@@ -1,7 +1,9 @@
 entity Biblioteca {
+  id : string
   nombre : string
   direccion: string
   telefono : string
+  accion : string
 }
 entity Libro {
   id : string

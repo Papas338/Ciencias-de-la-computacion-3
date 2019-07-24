@@ -1,12 +1,27 @@
 <!DOCTYPE html>
-<head>
+<!DOCTYPE html>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
     <title>Biblioteca</title>
     <!-- Bootstrap Core CSS -->
 
-    <!--    
-    -->
+    
+    <?php
+    $link = mysqli_connect('localhost','root','','biblioteca');    
+        
+    if (!$link->set_charset("utf8")) {
+        printf("Error loading character set utf8: %s\n", $link->error);
+    } else {
+        printf("Current character set: %s\n", $link->character_set_name());
+    }
+    
 
+  ?>
+
+<!--
+-->
     <link rel="stylesheet" type="text/css" href="estiloBiblioteca.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -57,12 +72,29 @@
     <table id="source" class="table table-bordered table-hover">
         <thead>
             <tr class="encabezado">
+                    <th style="width:1%;">Id</th>
                     <th style="width:1%;">Nombre</th>
                     <th style="width:1%;">Direccion</th>
                     <th style="width:1%;">Telefono</th>
+                    <th style="width:1%;">Accion</th>
             </tr>
         </thead>
         <tbody>
+          
+
+          <?php foreach ($link->query('SELECT * from Biblioteca') as $row){ // busqueda de platos. ?> 
+            <tr>
+                        <td><p align="center"><?php echo $row['id'] ?></p></td>
+                        <td><img src="../imagenes/<?php echo $row['id'] ?>.jpg" alt=""><br><br/><p align="center"><?php echo $row['nombre'] ?></p></td>
+                        <td><p align="center"><?php echo $row['direccion'] ?></p></td>
+                        <td><p align="center"><?php echo $row['telefono'] ?></p></td>
+                        <td><button onclick="add(this)" class="btn btn-primary btn-xs"> Agregar Biblioteca
+                          </button>
+                        </td>
+            </tr>
+            <?php
+            }
+          ?>
         </tbody>
     <tfoot>
     </tfoot>
